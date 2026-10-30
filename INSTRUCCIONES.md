@@ -1,6 +1,6 @@
 # Instrucciones de publicaciones · LinkedIn de Alberto Conde Mellado, Ph.D.
 
-Versión 1.4 · 30/10/2026. Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
+Versión 1.5 · 30/10/2026. Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
 
 ## 1. Propósito
 Posicionar a Alberto como referente en salud metabólica y en coaching de excelencia, vitalidad y longevidad, aplicados al rendimiento laboral y a la salud. El contenido construye credibilidad; no es publicidad. SYNC² by Glucovibes es una oferta, no la firma de cada post.
@@ -18,6 +18,7 @@ Posicionar a Alberto como referente en salud metabólica y en coaching de excele
 4. Matices: variabilidad individual; asociación no es causalidad; no hay alimentos prohibidos.
 5. Acción practicable.
 6. Pregunta de cierre.
+El arranque del texto conecta con el titular-reto de la imagen (la misma escena de trabajo).
 Extensión: 1.200-1.900 caracteres. Sin hashtags en exceso (0-3). Frases cortas, legibles en móvil.
 
 ## 4. CTA: un solo post por semana
@@ -39,6 +40,7 @@ Producción:
 1. Foto con ChatGPT (Chrome de Alberto, chatgpt.com, sesión iniciada). Prompt: foto realista HORIZONTAL 3:2 dividida en dos mitades por una línea blanca fina, MISMA persona en las dos (cara, ropa, entorno y luz idénticos), encuadre cerrado (rostro arriba, plato o objeto abajo). Solo cambia el elemento del caso. **Sin texto, logos ni marcas de agua.** Adultos de más de 35 años, alternando perfiles.
 2. Descarga: con JavaScript en la pestaña de ChatGPT, fetch del `src` de la última imagen y descarga con nombre fijo a `/Users/Beto/Downloads/`. Después, device_stage_files.
 3. Composición con `tools/componer_curvas.js`, con el chip a "-" (sin chip): foto + `curvas.png` del caso + titular + nota «Foto ilustrativa. Curvas reales de una persona usuaria de Glucovibes: … La respuesta varía entre personas.». Si no hay curvas, usa `tools/componer.js` (P1/P6).
+   **Titular de la imagen = reto.** Es una pregunta que enfrenta al lector con una consecuencia en su desempeño profesional, ligada al mecanismo del post: hambre, caídas de energía, concentración, distracciones, somnolencia, salud… Ejemplos: «¿Quién estará pensando en picar en la reunión de las 11:00?», «¿Quién llegará con energía a la reunión de las 16:00?». La hora o el momento clave se resalta en coral. La pregunta debe estar respaldada por la evidencia del post: si un efecto no está demostrado (p. ej. la concentración tras un pico), elige otro que sí lo esté y explica la elección en la ficha. No describe el experimento («Misma tostada, distinto pan»): eso ya lo cuentan la foto y las curvas.
    **La imagen es autoexplicativa:** sin chips ni rótulos técnicos; nunca «monitor continuo de glucosa», «MCG», «sensor» ni «kit» en la imagen (los kits Glucovibes se mencionan solo en el texto del post).
 4. Revisa el render: el elemento clave visible, la persona coherente en las dos mitades y nada cortado.
 Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca SYNC² en ninguna imagen. Plantillas: P1 mismo momento y dos elecciones · P2 mismo día y distinto final · P3 objetos · P6 pregunta como titular.

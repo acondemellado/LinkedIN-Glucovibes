@@ -1,12 +1,13 @@
-# Borrador · Misma tostada, distinto pan
+# Borrador · ¿Quién estará pensando en picar en la reunión de las 11:00?
 Estado: BORRADOR pendiente de aprobación de Alberto · No programar sin OK.
 Fecha propuesta: lunes 2/11/2026 08:45 · Pilar: metabolismo en la jornada · CTA: NO · Plantilla: P1 + curvas reales
 Fuente Glucovibes: Glucovibes-Posts/04_pan-molde-vs-integral (publicado en Instagram el 27/10/2026)
 
 ## Texto
 
-Misma persona. Misma tostada con tomate. Dos mañanas distintas.
-Lo único que cambió fue el pan.
+Reunión de las 11:00. Uno sigue el hilo. El otro ya está pensando en qué va a picar.
+A las 8:00 los dos habían desayunado lo mismo: tostada con tomate y café. Casi lo mismo.
+Lo único que cambiaba era el pan.
 
 Una persona usuaria de Glucovibes lo midió con su kit Glucovibes:
 → Con pan de molde blanco, su glucosa llegó a 156 mg/dl.
@@ -30,7 +31,7 @@ Y fíjate en a qué hora vuelve el hambre.
 ¿Sabes cómo responde tu cuerpo a tu desayuno de cada día?
 
 ## Ficha
-- Gancho: misma tostada, distinto pan; caso real medido con kit Glucovibes.
+- Gancho / titular de la imagen: «¿Quién estará pensando en picar en la reunión de las 11:00?» (hambre como distracción en el trabajo). Se descarta «¿quién estará más concentrado?»: Wyatt 2021 no encontró asociación con el estado de alerta.
 - Mecanismo: harina refinada sin fibra → digestión y absorción rápidas → pico mayor; caída posterior asociada a más hambre e ingesta.
 - Caso real: Glucovibes-Posts/04_pan-molde-vs-integral, curvas.png. Pico de 156 frente a 112 mg/dl (la nota de revisión del repo corrige el 123 del reel de 2025 a 112, según el vídeo y la curva originales). La curva NO muestra la caída posterior (termina por encima del nivel basal), por eso el texto no la atribuye a este caso.
 - Fuentes:

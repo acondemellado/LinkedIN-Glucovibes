@@ -5,13 +5,13 @@ const b64 = f => fs.readFileSync(f).toString('base64');
 const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;');
 // La foto (1536x1024) se recorta verticalmente entre y0 e y1 y se escala a 1000 px de ancho
 const srcH = (+y1) - (+y0), scale = 1000/1536, boxH = Math.round(srcH*scale);
-const TOP = (chip && chip!=='-') ? 150 : 124; const cardH = 1350-(TOP+boxH+12)-84; const cardW = Math.min(1000, Math.round((cardH-16)*1000/640)+40);
+const DOS = (titulo+' '+rojo).length > 30; const TOP = (chip && chip!=='-') ? 150 : (DOS ? 168 : 124); const cardH = 1350-(TOP+boxH+12)-84; const cardW = Math.min(1000, Math.round((cardH-16)*1000/640)+40);
 const html = `<!doctype html><html><head><meta charset="utf-8"><style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{width:1080px;height:1350px;background:#FAF8F6;font-family:'Inter','Inter Display',sans-serif;color:#141414;position:relative;overflow:hidden}
 .chip{position:absolute;top:30px;left:0;width:1080px;text-align:center}
 .chip span{display:inline-block;background:#FFE7E3;color:#D9473A;font-weight:700;font-size:20px;letter-spacing:2px;padding:9px 18px;border-radius:30px}
-h1{position:absolute;top:${chip && chip!=='-' ? 76 : 44}px;left:40px;width:1000px;text-align:center;font-family:'Inter Display','Inter';font-weight:800;font-size:50px;letter-spacing:-1px;text-wrap:balance}
+h1{position:absolute;top:${chip && chip!=='-' ? 76 : (DOS ? 28 : 44)}px;line-height:1.08;left:40px;width:1000px;text-align:center;font-family:'Inter Display','Inter';font-weight:800;font-size:${DOS ? 52 : 50}px;letter-spacing:-1px;text-wrap:balance}
 h1 .r{color:#F2594B}
 .photo{position:absolute;top:${TOP}px;left:40px;width:1000px;height:${boxH}px;border-radius:26px;overflow:hidden}
 .photo img{position:absolute;left:0;top:${-Math.round(+y0*scale)}px;width:1000px}
