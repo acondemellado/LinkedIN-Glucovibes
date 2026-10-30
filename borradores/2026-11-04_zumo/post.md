@@ -1,18 +1,20 @@
-# Borrador · ¿Quién aguantará sin picar hasta la hora de comer?
+# Borrador · El mito del zumo de naranja
 Estado: BORRADOR pendiente de aprobación de Alberto · Buffer (borrador) 6ae45d9638b96b6f5b9cda8e · No programar sin OK.
 Fecha propuesta: miércoles 4/11/2026 17:48 · Pilar: metabolismo en la jornada · CTA: NO · Plantilla: P3 (objetos) + curvas reales
 Fuente Glucovibes: Glucovibes-Posts/03_zumo-vs-naranja (programado en Instagram el 3/11/2026)
 
 ## Texto
 
-Son las 9:00. Un vaso de zumo de naranja recién exprimido en la mesa del despacho. Natural, sano y listo en un minuto.
-A las 11:30, la máquina de café y algo para picar empiezan a llamar.
+El mito del zumo de naranja.
 
-Una persona usuaria de Glucovibes comparó con su kit Glucovibes dos formas de tomar la misma fruta:
+Empezar el día con un zumo de naranja recién exprimido ha sido siempre una característica de un desayuno saludable. Natural, sano y listo en un minuto.
+Lo que no sabes es lo que pasa dentro de ti y cómo ese gesto repetido todos los días puede ser el origen de tener hambre al poco tiempo, de perder la concentración, de ganar peso...
+
+Aquí tienes dos formas de tomar la misma fruta:
 → Zumo de naranja: subida de +57 mg/dl y, después, caída por debajo del punto de partida.
 → Naranja entera: subida de +28 mg/dl, curva suave y sin caída.
 
-Misma fruta. La mitad de subida.
+Misma fruta. La mitad de subida y, por tanto, diferente necesidad de insulina y de equilibrio hormonal.
 
 Lo que pasa por dentro:
 → Al exprimir, la mayor parte de la fibra se queda en el exprimidor. Sin ella, el azúcar de la fruta pasa a la sangre mucho más rápido.
@@ -27,10 +29,11 @@ Dos matices:
 Qué puedes probar esta semana:
 Si tomas zumo cada mañana, cámbialo tres días por la pieza entera. Y fíjate en a qué hora empiezas a pensar en picar.
 
-¿Eres de zumo o de fruta entera?
+¿Eres de zumo o de fruta entera? ¿Te lo vas a pensar en adelante?
 
 ## Ficha
-- Titular de la imagen: «¿Quién aguantará sin picar hasta la hora de comer?» (hambre y picoteo como distracción en la jornada). Respaldo: la curva del zumo muestra la caída por debajo del nivel basal; Wyatt 2021 asocia esa caída con más hambre; Flood-Obbagy 2009, saciedad de la fruta entera.
+- v2 (30/10/2026): titular y texto reescritos por Alberto por email; la imagen se rehace como infografia_v2.png.
+- Titular de la imagen (v1, descartado): «¿Quién aguantará sin picar hasta la hora de comer?» (hambre y picoteo como distracción en la jornada). Respaldo: la curva del zumo muestra la caída por debajo del nivel basal; Wyatt 2021 asocia esa caída con más hambre; Flood-Obbagy 2009, saciedad de la fruta entera.
 - Caso real: Glucovibes-Posts/03_zumo-vs-naranja, curvas.png (+57 frente a +28 mg/dl; el zumo cae por debajo del punto de partida). Se han recortado de la imagen los «índices estimados» y el GlucoScore, porque el propio post los califica de extrapolación visual y no de cálculo de la app.
 - Fuentes:
   - Wyatt P. et al., Nature Metabolism 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC7610681/ (consultado el 30/10/2026)

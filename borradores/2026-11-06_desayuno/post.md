@@ -1,14 +1,16 @@
-# Borrador · ¿Quién llega a la reunión de las 10:00 con la glucosa más baja?
+# Borrador · ¿Saltarse el desayuno es una buena costumbre?
 Estado: BORRADOR pendiente de aprobación de Alberto · Buffer (borrador) 6ae45d9eceb12661efd81a6e · No programar sin OK.
 Fecha propuesta: viernes 6/11/2026 14:20 · Pilar: metabolismo en la jornada · CTA: SÍ (post comercial de la semana) · Plantilla: P1 + curvas reales
 Fuente Glucovibes: Glucovibes-Posts/02_ayuno-desayuno (programado en Instagram el 5/11/2026)
 
 ## Texto
 
-«Me salto el desayuno: así rindo más y controlo la glucosa.»
-Es una frase habitual en muchos equipos de dirección. A veces funciona, pero no siempre por lo que creemos.
+¿Saltarse el desayuno es una buena costumbre?
 
-Una persona usuaria de Glucovibes registró con su kit Glucovibes dos días distintos:
+«Me salto el desayuno para extender el ayuno, y es bueno para la salud y para mi glucosa.»
+Es una frase habitual en muchas personas, y también cuando se viaja, sin tiempo para el desayuno, o de forma intencionada. A veces funciona, pero no siempre por lo que creemos.
+
+La misma persona usuaria de Glucovibes registró con su kit Glucovibes dos días distintos:
 → Sin desayuno (ayuno hasta las 12:00): entre 96 y 106 mg/dl de 6:00 a 11:00.
 → Con desayuno: entre 93 y 112 mg/dl en la misma franja.
 A las 10:00, prácticamente empate: 97 frente a 104 mg/dl. Saltarse el desayuno apenas cambió su glucosa de la mañana. Y su primera comida, a las 12:00, la llevó a 120 mg/dl, el máximo de ese día.
@@ -18,17 +20,16 @@ Lo que pasa por dentro:
 → Cuando por fin comes, la respuesta puede ser mayor. En un ensayo cruzado con 22 personas con diabetes tipo 2, saltarse el desayuno aumentó un 37 % la glucosa tras la comida y un 27 % tras la cena (Diabetes Care, 2015). En personas sin diabetes, la evidencia es menos concluyente.
 
 Dos matices:
-• Es el registro de una persona. En tu caso puede ser distinto.
-• Ayunar no es bueno ni malo por definición. Depende de cómo, de cuándo y de quién.
+• Es el registro de una persona. En tu caso puede ser distinto, y el ayuno puede sentarte estupendamente.
+• Ayunar no es bueno ni malo por definición. Depende de cómo, de cuándo y, sobre todo, ¡DE QUIÉN!
 
 Si quieres ayunar, prueba antes a adelantar la cena y retrasar un poco el desayuno: el mismo descanso digestivo sin dejar la mañana en blanco. Y mide cómo responde tu cuerpo.
 
 Estos aspectos los trabajamos en SYNC² by Glucovibes, el programa de 10 semanas que presenté hace unos días, tanto en formato individual como en equipo. ¿Quieres conocer el programa completo? Escríbeme o deja SYNC2 en los comentarios y seguimos desde ahí.
 
-¿Tú desayunas antes de la primera reunión?
-
 ## Ficha
-- Titular de la imagen: «¿Quién llega a la reunión de las 10:00 con la glucosa más baja?». Es un reto con respuesta contraintuitiva, porque las curvas muestran casi un empate. Contexto profesional: la reunión de primera hora y el mito de ayunar para rendir.
+- v2 (30/10/2026): titular y texto reescritos por Alberto por email; la imagen se rehace como infografia_v2.png.
+- Titular de la imagen (v1, descartado): «¿Quién llega a la reunión de las 10:00 con la glucosa más baja?». Es un reto con respuesta contraintuitiva, porque las curvas muestran casi un empate. Contexto profesional: la reunión de primera hora y el mito de ayunar para rendir.
 - Caso real: Glucovibes-Posts/02_ayuno-desayuno. Los valores del texto se han medido sobre la curva original digitalizada (`curvas_digitalizadas.json`; validada contra los máx./mín. publicados, ±1 mg/dl). La curva se ha redibujado nítida con `tools/dibujar_curvas.js` sin alterar los datos.
 - Atención:
   - El día con desayuno solo tiene registro hasta las 10:50, así que no se puede comparar la respuesta a la comida entre ambos días. Por eso el texto no afirma que el pico de las 12:00 sea mayor que con desayuno.
