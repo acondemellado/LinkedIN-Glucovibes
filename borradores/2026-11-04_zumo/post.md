@@ -1,5 +1,5 @@
 # Borrador · ¿Quién aguantará sin picar hasta la hora de comer?
-Estado: BORRADOR pendiente de aprobación de Alberto · No programar sin OK.
+Estado: BORRADOR pendiente de aprobación de Alberto · Buffer (borrador) 6ae45d9638b96b6f5b9cda8e · No programar sin OK.
 Fecha propuesta: miércoles 4/11/2026 17:48 · Pilar: metabolismo en la jornada · CTA: NO · Plantilla: P3 (objetos) + curvas reales
 Fuente Glucovibes: Glucovibes-Posts/03_zumo-vs-naranja (programado en Instagram el 3/11/2026)
 

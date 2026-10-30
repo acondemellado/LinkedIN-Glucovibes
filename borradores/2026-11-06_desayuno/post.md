@@ -1,5 +1,5 @@
 # Borrador · ¿Quién llega a la reunión de las 10:00 con la glucosa más baja?
-Estado: BORRADOR pendiente de aprobación de Alberto · No programar sin OK.
+Estado: BORRADOR pendiente de aprobación de Alberto · Buffer (borrador) 6ae45d9eceb12661efd81a6e · No programar sin OK.
 Fecha propuesta: viernes 6/11/2026 14:20 · Pilar: metabolismo en la jornada · CTA: SÍ (post comercial de la semana) · Plantilla: P1 + curvas reales
 Fuente Glucovibes: Glucovibes-Posts/02_ayuno-desayuno (programado en Instagram el 5/11/2026)
 

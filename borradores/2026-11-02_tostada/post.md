@@ -1,5 +1,5 @@
 # Borrador · ¿Quién estará pensando en picar en la reunión de las 11:00?
-Estado: BORRADOR pendiente de aprobación de Alberto · No programar sin OK.
+Estado: BORRADOR pendiente de aprobación de Alberto · Buffer (borrador) 6ae45d8f38b96b6f5b9cd8f6 · No programar sin OK.
 Fecha propuesta: lunes 2/11/2026 08:45 · Pilar: metabolismo en la jornada · CTA: NO · Plantilla: P1 + curvas reales
 Fuente Glucovibes: Glucovibes-Posts/04_pan-molde-vs-integral (publicado en Instagram el 27/10/2026)
 
