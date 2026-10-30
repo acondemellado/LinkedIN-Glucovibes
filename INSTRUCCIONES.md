@@ -1,6 +1,6 @@
 # Instrucciones de publicaciones · LinkedIn de Alberto Conde Mellado, Ph.D.
 
-Versión 1.3 · 30/10/2026. Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
+Versión 1.4 · 30/10/2026. Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
 
 ## 1. Propósito
 Posicionar a Alberto como referente en salud metabólica y en coaching de excelencia, vitalidad y longevidad, aplicados al rendimiento laboral y a la salud. El contenido construye credibilidad; no es publicidad. SYNC² by Glucovibes es una oferta, no la firma de cada post.
@@ -13,7 +13,7 @@ Posicionar a Alberto como referente en salud metabólica y en coaching de excele
 
 ## 3. Estructura de cada post
 1. Escena o gancho (situación reconocible).
-2. Caso real con sus cifras (si existe).
+2. Caso real con sus cifras (si existe). En el texto, la medición siempre se atribuye a los **kits Glucovibes** («lo midió con su kit Glucovibes»); nunca «monitor continuo de glucosa», «MCG» ni «sensor».
 3. Mecanismo fisiológico encadenado (causa → efecto → consecuencia). Es obligatorio y está contrastado.
 4. Matices: variabilidad individual; asociación no es causalidad; no hay alimentos prohibidos.
 5. Acción practicable.
@@ -31,13 +31,15 @@ Extensión: 1.200-1.900 caracteres. Sin hashtags en exceso (0-3). Frases cortas,
 - Cifras de casos reales exactamente como figuran en el repo de Instagram (revisa `nota_revision` en `post.json`).
 - No atribuir a una curva lo que no muestra.
 - No presentar el cansancio o el hambre como prueba de un pico. No prometer resultados. Sin diagnósticos.
-- Curvas: solo reales, con nota «Curvas reales de una usuaria/un usuario de Glucovibes…». Prohibidas las curvas ilustrativas presentadas como datos.
+- Curvas: solo reales. Prohibidas las curvas ilustrativas presentadas como datos.
+- Atribución neutra, siempre: «una persona usuaria de Glucovibes» (en la imagen y en el texto), nunca «una usuaria» o «un usuario», para que no choque con el sexo de la persona de la foto.
 
 ## 6. Infografía (1080×1350, 4:5)
 Producción:
-1. Foto con ChatGPT (Chrome de Alberto, chatgpt.com, sesión iniciada). Prompt: foto realista HORIZONTAL 3:2 dividida en dos mitades por una línea blanca fina, MISMA persona en las dos (cara, ropa, entorno y luz idénticos), encuadre cerrado (rostro arriba, plato o objeto abajo). Solo cambia el elemento del caso. **Sin texto, logos ni marcas de agua.** Si el caso real es de una mujer, la foto muestra a una mujer, y viceversa. Adultos de más de 35 años, alternando perfiles.
+1. Foto con ChatGPT (Chrome de Alberto, chatgpt.com, sesión iniciada). Prompt: foto realista HORIZONTAL 3:2 dividida en dos mitades por una línea blanca fina, MISMA persona en las dos (cara, ropa, entorno y luz idénticos), encuadre cerrado (rostro arriba, plato o objeto abajo). Solo cambia el elemento del caso. **Sin texto, logos ni marcas de agua.** Adultos de más de 35 años, alternando perfiles.
 2. Descarga: con JavaScript en la pestaña de ChatGPT, fetch del `src` de la última imagen y descarga con nombre fijo a `/Users/Beto/Downloads/`. Después, device_stage_files.
-3. Composición con `tools/componer_curvas.js` (foto + `curvas.png` del caso + chip «CASO REAL · MONITOR CONTINUO DE GLUCOSA» + titular + nota «Foto ilustrativa. Curvas reales de…»). Si no hay curvas, usa `tools/componer.js` (P1/P6).
+3. Composición con `tools/componer_curvas.js`, con el chip a "-" (sin chip): foto + `curvas.png` del caso + titular + nota «Foto ilustrativa. Curvas reales de una persona usuaria de Glucovibes: … La respuesta varía entre personas.». Si no hay curvas, usa `tools/componer.js` (P1/P6).
+   **La imagen es autoexplicativa:** sin chips ni rótulos técnicos; nunca «monitor continuo de glucosa», «MCG», «sensor» ni «kit» en la imagen (los kits Glucovibes se mencionan solo en el texto del post).
 4. Revisa el render: el elemento clave visible, la persona coherente en las dos mitades y nada cortado.
 Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca SYNC² en ninguna imagen. Plantillas: P1 mismo momento y dos elecciones · P2 mismo día y distinto final · P3 objetos · P6 pregunta como titular.
 

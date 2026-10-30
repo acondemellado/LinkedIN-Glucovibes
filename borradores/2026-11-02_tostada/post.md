@@ -8,7 +8,7 @@ Fuente Glucovibes: Glucovibes-Posts/04_pan-molde-vs-integral (publicado en Insta
 Misma persona. Misma tostada con tomate. Dos mañanas distintas.
 Lo único que cambió fue el pan.
 
-Una usuaria de Glucovibes lo midió con su monitor continuo de glucosa:
+Una persona usuaria de Glucovibes lo midió con su kit Glucovibes:
 → Con pan de molde blanco, su glucosa llegó a 156 mg/dl.
 → Con pan 100 % integral, se quedó en 112 mg/dl.
 
@@ -17,7 +17,7 @@ Una usuaria de Glucovibes lo midió con su monitor continuo de glucosa:
 Lo que pasa por dentro:
 → La harina refinada ha perdido casi toda su fibra. El almidón se digiere y se absorbe rápido, y la glucosa sube deprisa.
 → La fibra del grano entero frena esa digestión y suaviza la curva. No es solo este caso: en un ensayo controlado, enriquecer el pan con fibra redujo la respuesta glucémica entre un 35 % y un 43 % (Nutrition Journal, 2014).
-→ ¿Por qué importa más allá del pico? Cuando la subida es rápida, en muchas personas la glucosa cae después por debajo del nivel de partida. En un estudio con 1.070 adultos con monitor continuo, quienes tenían las caídas más marcadas sentían más hambre, comían unos 24 minutos antes y unas 300 kcal más en las 24 horas siguientes (Nature Metabolism, 2021).
+→ ¿Por qué importa más allá del pico? Cuando la subida es rápida, en muchas personas la glucosa cae después por debajo del nivel de partida. En un estudio con 1.070 adultos a los que se midió la glucosa de forma continua, quienes tenían las caídas más marcadas sentían más hambre, comían unos 24 minutos antes y unas 300 kcal más en las 24 horas siguientes (Nature Metabolism, 2021).
 
 Dos matices:
 • Es la curva de una persona. La tuya puede ser distinta, porque la respuesta al mismo alimento varía mucho entre individuos.
@@ -30,7 +30,7 @@ Y fíjate en a qué hora vuelve el hambre.
 ¿Sabes cómo responde tu cuerpo a tu desayuno de cada día?
 
 ## Ficha
-- Gancho: misma tostada, distinto pan; caso real medido con MCG.
+- Gancho: misma tostada, distinto pan; caso real medido con kit Glucovibes.
 - Mecanismo: harina refinada sin fibra → digestión y absorción rápidas → pico mayor; caída posterior asociada a más hambre e ingesta.
 - Caso real: Glucovibes-Posts/04_pan-molde-vs-integral, curvas.png. Pico de 156 frente a 112 mg/dl (la nota de revisión del repo corrige el 123 del reel de 2025 a 112, según el vídeo y la curva originales). La curva NO muestra la caída posterior (termina por encima del nivel basal), por eso el texto no la atribuye a este caso.
 - Fuentes:
@@ -41,4 +41,4 @@ Y fíjate en a qué hora vuelve el hambre.
   - Es un caso individual (n=1) y no sabemos si las condiciones de los dos días eran idénticas.
   - Wyatt es observacional, con asociaciones modestas (r≈0,14-0,27); la caída no se asoció con el estado de alerta. Lo financió Zoe.
   - El efecto del aceite y de la proteína no está cuantificado en estas fuentes.
-- Imagen: foto ilustrativa generada con ChatGPT (hombre de unos 45 años) más las curvas reales de la usuaria, con nota de «Foto ilustrativa» en la imagen.
+- Imagen: foto ilustrativa (ChatGPT) más las curvas reales; sin chip; nota «Foto ilustrativa. Curvas reales de una persona usuaria de Glucovibes…».
