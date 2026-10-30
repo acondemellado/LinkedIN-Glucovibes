@@ -85,7 +85,8 @@ Revisión final del 30/10/2026 (Alberto editó y programó directamente en Buffe
 - **Acción concreta con alimentos:** proteína y grasa saludable (yogur, frutos secos, kéfir, skyr) y cierre cercano («Luego me cuentas»).
 - **Etiquetas de los matices:** «Consideraciones» o «A tener en cuenta» (alterna; no siempre «Dos matices»).
 - **Calendario:** el post con CTA no tiene por qué ir el viernes (esta semana fue el miércoles). Horas usadas: lunes 08:45, miércoles 17:56, viernes 14:06. Propón día y hora, pero Alberto puede reordenar.
-- **Revisión previa obligatoria:** erratas y signos («vas a comer», «?.»), y frases absolutas que contradigan los matices (p. ej. «pico de glucosa garantizado» frente a «la tuya puede ser distinta»).
+- **Revisión previa obligatoria:** erratas y signos («vas a comer», «?.»).
+- **Decisiones intencionadas de Alberto (no volver a señalarlas):** frases rotundas («pico de glucosa garantizado»), datos agregados de usuarios de Glucovibes (p. ej. ayuno y cortisol) y mencionar GlucoScore en posts sin CTA. Respeta su voz: si algo te parece arriesgado, coméntalo una vez en el email, sin insistir.
 - **Versiones:** cuando cambie la imagen, guárdala como `infografia_v2.png`, `_v3`… (nunca sobrescribir), para evitar cachés de GitHub, Buffer o LinkedIn.
 
 ## 9. Registro
