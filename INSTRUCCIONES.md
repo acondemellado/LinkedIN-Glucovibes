@@ -1,6 +1,6 @@
 # Instrucciones de publicaciones · LinkedIn de Alberto Conde Mellado, Ph.D.
 
-Versión 1.7 · 30/10/2026. Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
+Versión 1.8 · 30/10/2026. Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
 
 ## 1. Propósito
 Posicionar a Alberto como referente en salud metabólica y en coaching de excelencia, vitalidad y longevidad, aplicados al rendimiento laboral y a la salud. El contenido construye credibilidad; no es publicidad. SYNC² by Glucovibes es una oferta, no la firma de cada post.
@@ -77,6 +77,15 @@ Revisión del 30/10/2026 (posts del 4/11 y del 6/11):
 - **Mecanismo:** cuando proceda, conectar la diferencia de curva con la demanda de insulina y el equilibrio hormonal.
 - **Matices:** reconocer que al lector le puede ir bien («el ayuno puede sentarte estupendamente») y subrayar la individualidad («depende… sobre todo, ¡DE QUIÉN!»).
 - **Cierre:** pregunta que invite a replantearse el hábito («¿Te lo vas a pensar en adelante?»). En el post con CTA se puede terminar directamente en el CTA.
+Revisión final del 30/10/2026 (Alberto editó y programó directamente en Buffer los 3 posts; textos en `borradores/*/texto_final.txt`, que son la mejor referencia de su voz):
+- **Hilo semanal:** los 3 posts de la semana comparten un tema (p. ej. «el desayuno») y se citan entre sí («Seguimos esta semana hablando de…», «Recuerda… que te presentaba hace unos días»). Planifica la semana como una mini-serie.
+- **El cerebro y la glucosa** como ángulo recurrente: el cerebro como gran consumidor de glucosa, y los picos como «comida fácil» que pide más.
+- **Analogías deportivas:** p. ej. el zumo como «un gel energético para un deportista de élite… Tú, en cambio, estás sentado». Encaja con la trayectoria de Alberto.
+- **Glucovibes como acompañamiento, no solo como medidor:** «tras el seguimiento realizado y la sugerencia de pequeños cambios…»; datos agregados («entre los más de 12.000 usuarios de Glucovibes…»); herramientas propias (GlucoScore). Si se cita un dato agregado o una capacidad de la app que no figura en las fuentes, pídelo o márcalo como pendiente de confirmar en el email.
+- **Acción concreta con alimentos:** proteína y grasa saludable (yogur, frutos secos, kéfir, skyr) y cierre cercano («Luego me cuentas»).
+- **Etiquetas de los matices:** «Consideraciones» o «A tener en cuenta» (alterna; no siempre «Dos matices»).
+- **Calendario:** el post con CTA no tiene por qué ir el viernes (esta semana fue el miércoles). Horas usadas: lunes 08:45, miércoles 17:56, viernes 14:06. Propón día y hora, pero Alberto puede reordenar.
+- **Revisión previa obligatoria:** erratas y signos («vas a comer», «?.»), y frases absolutas que contradigan los matices (p. ej. «pico de glucosa garantizado» frente a «la tuya puede ser distinta»).
 - **Versiones:** cuando cambie la imagen, guárdala como `infografia_v2.png`, `_v3`… (nunca sobrescribir), para evitar cachés de GitHub, Buffer o LinkedIn.
 
 ## 9. Registro

@@ -1,5 +1,5 @@
 # Borrador · El mito del zumo de naranja
-Estado: BORRADOR pendiente de aprobación de Alberto · Buffer (borrador) 6ae45d9638b96b6f5b9cda8e · No programar sin OK.
+Estado: PROGRAMADO · Buffer 6ae45d9638b96b6f5b9cda8e · viernes 6/11/2026 14:06 · Revisado, editado y programado por Alberto en Buffer el 30/10/2026. Texto publicado: texto_final.txt (manda sobre la sección «Texto»).
 Fecha propuesta: miércoles 4/11/2026 17:48 · Pilar: metabolismo en la jornada · CTA: NO · Plantilla: P3 (objetos) + curvas reales
 Fuente Glucovibes: Glucovibes-Posts/03_zumo-vs-naranja (programado en Instagram el 3/11/2026)
 

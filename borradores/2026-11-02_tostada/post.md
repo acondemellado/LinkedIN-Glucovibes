@@ -1,5 +1,5 @@
 # Borrador · ¿Quién estará pensando en picar en la reunión de las 11:00?
-Estado: PROGRAMADO · Buffer 6ae45d8f38b96b6f5b9cd8f6 · lunes 2/11/2026 08:45 (OK de Alberto por email el 30/10/2026 a las 10:07)
+Estado: PROGRAMADO · Buffer 6ae45d8f38b96b6f5b9cd8f6 · lunes 2/11/2026 08:45 · Revisado, editado y programado por Alberto en Buffer el 30/10/2026. Texto publicado: texto_final.txt (manda sobre la sección «Texto»).
 Fecha propuesta: lunes 2/11/2026 08:45 · Pilar: metabolismo en la jornada · CTA: NO · Plantilla: P1 + curvas reales
 Fuente Glucovibes: Glucovibes-Posts/04_pan-molde-vs-integral (publicado en Instagram el 27/10/2026)
 
