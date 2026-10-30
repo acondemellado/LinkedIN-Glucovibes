@@ -1,6 +1,6 @@
 # Instrucciones de publicaciones · LinkedIn de Alberto Conde Mellado, Ph.D.
 
-Versión 1.6 · 30/10/2026. Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
+Versión 1.7 · 30/10/2026. Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
 
 ## 1. Propósito
 Posicionar a Alberto como referente en salud metabólica y en coaching de excelencia, vitalidad y longevidad, aplicados al rendimiento laboral y a la salud. El contenido construye credibilidad; no es publicidad. SYNC² by Glucovibes es una oferta, no la firma de cada post.
@@ -68,6 +68,16 @@ Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca
   - edit_post exige reenviar el post completo: text + assets (url, thumbnailUrl, altText) + mode customScheduled + dueAt + **saveToDraft: false**.
   - Sin saveToDraft: false, el post se queda en estado «draft» aunque tenga fecha. Comprueba siempre que status = scheduled.
 - Sin OK, no se programa nada. Si la hora ya ha pasado al recibir el OK, se propone en el hilo el siguiente hueco.
+
+## 8b. Aprendizajes de las ediciones de Alberto (aplicar siempre; se amplía con cada revisión)
+Revisión del 30/10/2026 (posts del 4/11 y del 6/11):
+- **Titular:** corto y provocador, que cuestione un mito o un hábito concreto del post. Ejemplos aprobados: «El mito del zumo de naranja», «¿Saltarse el desayuno es una buena costumbre?», «¿Quién estará pensando en picar en la reunión de las 11:00?». Preferencia actual: cuestionar el hábito o el mito antes que la escena de oficina. El mismo titular va en la imagen y como **primera línea del post**.
+- **Público:** personas en general, no solo directivos. Situaciones cotidianas (casa, viajes, prisas), sin forzar la escena de despacho.
+- **Arranque:** la creencia habitual («ha sido siempre una característica de un desayuno saludable», «Me salto el desayuno para extender el ayuno…») → «lo que no sabes es lo que pasa dentro de ti» → consecuencias tangibles (hambre, picoteo, energía…). Si una consecuencia no está respaldada por la evidencia del post (p. ej. concentración o peso), se puede proponer, pero hay que señalarla en el email de revisión y ofrecer una alternativa respaldada.
+- **Mecanismo:** cuando proceda, conectar la diferencia de curva con la demanda de insulina y el equilibrio hormonal.
+- **Matices:** reconocer que al lector le puede ir bien («el ayuno puede sentarte estupendamente») y subrayar la individualidad («depende… sobre todo, ¡DE QUIÉN!»).
+- **Cierre:** pregunta que invite a replantearse el hábito («¿Te lo vas a pensar en adelante?»). En el post con CTA se puede terminar directamente en el CTA.
+- **Versiones:** cuando cambie la imagen, guárdala como `infografia_v2.png`, `_v3`… (nunca sobrescribir), para evitar cachés de GitHub, Buffer o LinkedIn.
 
 ## 9. Registro
 Cada post vive en `borradores/AAAA-MM-DD_tema/` con `post.md` (texto y ficha), `foto_raw.png`, `curvas.png` (si hay) e `infografia.png`. Estado en la cabecera de `post.md`: BORRADOR → PROGRAMADO (con ID de Buffer) → PUBLICADO.
