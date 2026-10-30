@@ -1,39 +1,44 @@
-# Borrador · La tostada de las 8:00
-Estado: BORRADOR pendiente de aprobación de Alberto · No programar.
-Pilar: metabolismo en la jornada · CTA: NO · Plantilla: P1 + P6
+# Borrador · Misma tostada, distinto pan
+Estado: BORRADOR pendiente de aprobación de Alberto · No programar sin OK.
+Fecha propuesta: lunes 2/11/2026 08:45 · Pilar: metabolismo en la jornada · CTA: NO · Plantilla: P1 + curvas reales
+Fuente Glucovibes: Glucovibes-Posts/04_pan-molde-vs-integral (publicado en Instagram el 27/10/2026)
 
 ## Texto
 
-Son las 8:00. Tostada de pan blanco con mermelada y un café. Rápido y cómodo.
-A las 11:00 ya estás pensando en qué picar. Y no es falta de fuerza de voluntad.
+Misma persona. Misma tostada con tomate. Dos mañanas distintas.
+Lo único que cambió fue el pan.
+
+Una usuaria de Glucovibes lo midió con su monitor continuo de glucosa:
+→ Con pan de molde blanco, su glucosa llegó a 156 mg/dl.
+→ Con pan 100 % integral, se quedó en 112 mg/dl.
+
+44 mg/dl de diferencia por una decisión que tomamos sin pensar.
 
 Lo que pasa por dentro:
-→ El almidón refinado y el azúcar, con poca fibra, grasa o proteína, se digieren y absorben rápido.
-→ En muchas personas la glucosa sube deprisa y, 2-3 horas después, cae por debajo del nivel de partida.
-→ Esa caída se asocia con más hambre, con adelantar la siguiente comida y con comer más en el resto del día.
-
-En un estudio con 1.070 adultos sanos que llevaban monitor continuo de glucosa, el 25 % con las caídas más marcadas comió de media unos 24 minutos antes y unas 300 kcal más en 24 horas que el 25 % con las caídas más pequeñas.
+→ La harina refinada ha perdido casi toda su fibra. El almidón se digiere y se absorbe rápido, y la glucosa sube deprisa.
+→ La fibra del grano entero frena esa digestión y suaviza la curva. No es solo este caso: en un ensayo controlado, enriquecer el pan con fibra redujo la respuesta glucémica entre un 35 % y un 43 % (Nutrition Journal, 2014).
+→ ¿Por qué importa más allá del pico? Cuando la subida es rápida, en muchas personas la glucosa cae después por debajo del nivel de partida. En un estudio con 1.070 adultos con monitor continuo, quienes tenían las caídas más marcadas sentían más hambre, comían unos 24 minutos antes y unas 300 kcal más en las 24 horas siguientes (Nature Metabolism, 2021).
 
 Dos matices:
-• La respuesta es muy individual. El mismo desayuno no dibuja la misma curva en todas las personas.
-• Es una asociación, no una sentencia. El desayuno no decide tu día, pero puede inclinar la balanza.
+• Es la curva de una persona. La tuya puede ser distinta, porque la respuesta al mismo alimento varía mucho entre individuos.
+• No hay alimentos prohibidos. Hay contextos, combinaciones y cantidades.
 
-Qué puedes probar mañana:
-Mantén la tostada y cambia lo que la acompaña: pan con más fibra, aceite de oliva, tomate y algo de proteína (huevo, queso fresco).
-Después observa a qué hora aparece el hambre.
+Qué puedes probar esta semana:
+Mira la etiqueta de tu pan y busca «harina integral» como primer ingrediente. Acompaña la tostada con aceite de oliva o algo de proteína.
+Y fíjate en a qué hora vuelve el hambre.
 
-¿Te has fijado en a qué hora empiezas a pensar en comer según lo que desayunaste?
+¿Sabes cómo responde tu cuerpo a tu desayuno de cada día?
 
 ## Ficha
-- Gancho: hambre a las 11:00 tras una tostada de pan blanco con mermelada.
-- Mecanismo: absorción rápida → subida y caída posprandial (dip a las 2-3 h) → más hambre, comida adelantada y mayor ingesta.
+- Gancho: misma tostada, distinto pan; caso real medido con MCG.
+- Mecanismo: harina refinada sin fibra → digestión y absorción rápidas → pico mayor; caída posterior asociada a más hambre e ingesta.
+- Caso real: Glucovibes-Posts/04_pan-molde-vs-integral, curvas.png. Pico de 156 frente a 112 mg/dl (la nota de revisión del repo corrige el 123 del reel de 2025 a 112, según el vídeo y la curva originales). La curva NO muestra la caída posterior (termina por encima del nivel basal), por eso el texto no la atribuye a este caso.
 - Fuentes:
-  - Wyatt P. et al. Postprandial glycaemic dips predict appetite and energy intake in healthy individuals. Nature Metabolism, 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC7610681/ (consultado el 30/10/2026)
-  - Zeevi D. et al. Personalized nutrition by prediction of glycemic responses. Cell, 2015 (variabilidad individual, n=800). https://www.wisdom.weizmann.ac.il/~eran/zeevi_cell_2015.pdf
-  - Yuan J.Y.F. et al. Pan enriquecido con fibra: iAUC de glucosa entre un 35 % y un 43 % menor. Nutrition Journal, 2014. https://pmc.ncbi.nlm.nih.gov/articles/PMC4121305
-  - Clegg M.E. et al. Añadir grasa (aceite de oliva) a un alimento rico en carbohidratos reduce la respuesta glucémica. Food Research International, 2012. https://research.universityofgalway.ie/en/publications/addition-of-different-fats-to-a-carbohydrate-food-impact-on-gastr-3/
+  - Yuan J.Y.F. et al., Nutrition Journal 2014. Pan enriquecido con fibra: iAUC entre un 35 % y un 43 % menor. https://pmc.ncbi.nlm.nih.gov/articles/PMC4121305 (consultado el 30/10/2026)
+  - Wyatt P. et al., Nature Metabolism 2021. La caída posprandial predice el hambre y la ingesta. https://pmc.ncbi.nlm.nih.gov/articles/PMC7610681/ (consultado el 30/10/2026)
+  - Zeevi D. et al., Cell 2015. Variabilidad individual, n=800. https://www.wisdom.weizmann.ac.il/~eran/zeevi_cell_2015.pdf
 - Límites de la evidencia:
-  - Wyatt es observacional y sus asociaciones son modestas (r≈0,14-0,27). La caída NO se asoció con el estado de alerta, por eso el texto no habla de concentración.
-  - El estudio lo financió Zoe; la población era 97 % blanca.
-  - El efecto de la proteína en el desayuno no está respaldado específicamente por estas fuentes: se propone como opción, sin afirmar un efecto.
-- Acción: cambiar el acompañamiento de la tostada y observar a qué hora aparece el hambre.
+  - Es un caso individual (n=1) y no sabemos si las condiciones de los dos días eran idénticas.
+  - Wyatt es observacional, con asociaciones modestas (r≈0,14-0,27); la caída no se asoció con el estado de alerta. Lo financió Zoe.
+  - El efecto del aceite y de la proteína no está cuantificado en estas fuentes.
+- Imagen: foto ilustrativa generada con ChatGPT (hombre de unos 45 años) más las curvas reales de la usuaria, con nota de «Foto ilustrativa» en la imagen.
