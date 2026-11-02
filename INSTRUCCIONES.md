@@ -7,6 +7,7 @@ Posicionar a Alberto como referente en salud metabólica y en coaching de excele
 
 ## 2. Fuente de contenido
 - **Fuente principal:** las publicaciones de Instagram de Glucovibes. Están en el repo https://github.com/acondemellado/Glucovibes-Posts (carpetas `NN_tema/` con `post.json`, `curvas.png`, slides y `CALENDARIO.md`) y en Buffer (organización «My organization», canal de Instagram «glucovibes», id 6ad8809e778b240e2f78499d). Lo que está publicado o programado en Instagram está aprobado por Alberto. Instagram va por delante, así que se adapta su contenido a LinkedIn, ya publicado o programado.
+- **Buffer manda (02/11/2026):** las fechas, horas y textos de Buffer prevalecen sobre `CALENDARIO.md`, `post.json` y los `post.md`. Alberto mueve y edita posts directamente en Buffer (p. ej. adelantó el donut al 3/11 por una noticia de prensa). Antes de adaptar o programar nada, lee el post en Buffer y usa su texto vigente; si el repo difiere, sincroniza el repo con Buffer, nunca al revés.
 - **Prioridad:** casos reales de Glucovibes (curvas de usuarios, comparativas «Cómo afecta»). Los estudios se añaden como refuerzo, citados (revista y año en el texto; referencia completa en la ficha).
 - **Fuente secundaria:** las newsletters de Mailchimp de Glucovibes.
 - No repetir un tema ya publicado en LinkedIn (revisar `borradores/`).
@@ -86,7 +87,7 @@ Revisión final del 30/10/2026 (Alberto editó y programó directamente en Buffe
 - **Etiquetas de los matices:** «Consideraciones» o «A tener en cuenta» (alterna; no siempre «Dos matices»).
 - **Calendario:** el post con CTA no tiene por qué ir el viernes (esta semana fue el miércoles). Horas usadas: lunes 08:45, miércoles 17:56, viernes 14:06. Propón día y hora, pero Alberto puede reordenar.
 - **Revisión previa obligatoria:** erratas y signos («vas a comer», «?.»).
-- **Decisiones intencionadas de Alberto (no volver a señalarlas):** frases rotundas («pico de glucosa garantizado»), datos agregados de usuarios de Glucovibes (p. ej. ayuno y cortisol) y mencionar GlucoScore en posts sin CTA. Respeta su voz: si algo te parece arriesgado, coméntalo una vez en el email, sin insistir.
+- **Decisiones intencionadas de Alberto (no volver a señalarlas):** frases rotundas («pico de glucosa garantizado»), datos agregados de usuarios de Glucovibes (p. ej. ayuno y cortisol) y mencionar GlucoScore en posts sin CTA. También la concentración como efecto en el día a día (post del donut, 4/11): «sé lo que digo». Respeta su voz: si algo te parece arriesgado, coméntalo una vez en el email, sin insistir.
 - **Versiones:** cuando cambie la imagen, guárdala como `infografia_v2.png`, `_v3`… (nunca sobrescribir), para evitar cachés de GitHub, Buffer o LinkedIn.
 
 ## 9. Registro
