@@ -1,5 +1,5 @@
 # Borrador · ¿Un donut a media mañana? Depende de cuál.
-Estado: BORRADOR (02/11/2026) · Pedido por Alberto para sustituir al post del miércoles 4/11 · Pendiente de programar en Buffer: el conector de Buffer necesita volver a autorizarse.
+Estado: PROGRAMADO · Buffer 6ae868b9b0da614b554153fd · miércoles 4/11/2026 17:48 · Programado el 02/11/2026 a petición de Alberto (texto alineado con el caption de Instagram: «hortalizas, fruta y comida real», «cómo está hecho y con qué»).
 Fecha propuesta: miércoles 4/11/2026 17:48 · Pilar: metabolismo en la jornada · CTA: NO · Plantilla: slide 3/6 del carrusel de Instagram (curvas reales)
 Fuente Glucovibes: Glucovibes-Posts/13_donut-casero-vs-industrial (slide_03.png; Buffer Instagram 6adeffd67333971c1ebb4881)
 Reorganización pedida: el post que estaba el miércoles 4/11 17:56 (2026-11-06_desayuno, con CTA, Buffer 6ae45d9eceb12661efd81a6e) pasa al siguiente hueco libre tras los programados: lunes 9/11/2026 08:45, sin cambiar su texto ni su imagen.
@@ -8,11 +8,11 @@ Reorganización pedida: el post que estaba el miércoles 4/11 17:56 (2026-11-06_
 
 ¿Un donut a media mañana? Depende de cuál.
 
-Seguimos esta semana hablando del desayuno y de lo que viene después. Ese donut que te llevas a la oficina para media mañana, o el que aparece en la mesa cuando alguien celebra algo. Parece un gesto sin importancia, pero lo que no sabes es lo que pasa dentro de ti: cuando te llevas un tipo de comida u otro, tu cuerpo lo nota. Tu metabolismo lo nota. Y tu saciedad y tu concentración, también.
+Seguimos esta semana hablando del desayuno y de lo que viene después. Ese donut que te llevas a la oficina para media mañana. Parece un gesto sin importancia, pero lo que no sabes es lo que pasa dentro de ti: cuando te llevas un tipo de comida u otro, tu cuerpo lo nota. Tu metabolismo lo nota. Y tu saciedad y tu concentración, también.
 
 Una persona usuaria de Glucovibes lo midió con su kit Glucovibes: dos donuts, dos días seguidos, a la misma hora.
 → Donut convencional (harina refinada, azúcares añadidos, poca fibra): pico de 153 mg/dl y caída rápida hasta 81 mg/dl. GlucoScore 5/10.
-→ Donut Glucovibes (verduras y comida real, sin azúcares añadidos, chocolate de alta pureza): apenas pasó de 106 mg/dl. GlucoScore 8/10.
+→ Donut Glucovibes (hortalizas, fruta y comida real, sin azúcares añadidos, chocolate de alta pureza): apenas pasó de 106 mg/dl. GlucoScore 8/10.
 
 47 mg/dl de diferencia. Mismo antojo, distinta necesidad de insulina y distinto equilibrio hormonal.
 
@@ -23,9 +23,9 @@ Lo que pasa por dentro:
 
 A tener en cuenta:
 • Es la curva de una persona. La tuya puede ser distinta.
-• No hay alimentos prohibidos. El problema no es el capricho, es cómo está hecho.
+• No hay alimentos prohibidos. El problema no es el capricho, es cómo está hecho y con qué.
 
-Si mañana te llevas algo a la oficina, elige una versión con fibra y comida real, o acompáñala de proteína y grasa saludable: un yogur, unos frutos secos, kéfir. Luego me cuentas.
+Si mañana te llevas algo a la oficina, elige una versión con fibra y comida real, o acompáñala de proteína y grasa saludable: un yogur o unos frutos secos. Luego me cuentas.
 
 ¿Qué capricho te gustaría poner a prueba?
 
@@ -37,4 +37,4 @@ Si mañana te llevas algo a la oficina, elige una versión con fibra y comida re
   - Caso individual (n=1).
   - Wyatt es observacional y mide caídas tras el desayuno, no tras un tentempié.
   - «Concentración» la pidió Alberto, pero no está respaldada por el caso ni por Wyatt (la caída no se asoció con el estado de alerta). Alternativa respaldada: «Y tu saciedad, también».
-- Pendiente de confirmar: en CALENDARIO.md de Glucovibes-Posts el donut figura para el 21/11 (en revisión) y el 3/11 figura el zumo. Alberto indica que el donut es el programado en Instagram el 3/11 por la tarde.
+- Confirmado en Buffer: el carrusel del donut está programado en Instagram el 3/11/2026 a las 19:26 (CALENDARIO.md de Glucovibes-Posts está desactualizado).
