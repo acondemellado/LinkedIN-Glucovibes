@@ -1,6 +1,6 @@
 # Instrucciones de publicaciones · LinkedIn de Alberto Conde Mellado, Ph.D.
 
-Versión 1.8 · 30/10/2026. Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
+Versión 1.9 · 04/11/2026 (cola de borradores y tope de 4 en Buffer). Documento de referencia para las tareas automáticas. Sustituye al traspaso de ChatGPT y a las instrucciones del proyecto SYNC2 de ChatGPT.
 
 ## 1. Propósito
 Posicionar a Alberto como referente en salud metabólica y en coaching de excelencia, vitalidad y longevidad, aplicados al rendimiento laboral y a la salud. El contenido construye credibilidad; no es publicidad. SYNC² by Glucovibes es una oferta, no la firma de cada post.
@@ -49,11 +49,13 @@ Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca
 ## 7. Calendario y Buffer
 - 3 posts por semana en el canal de LinkedIn de Alberto, dentro de la organización de Buffer «My organization» (cuenta alberto@glucovibes.com): **lunes 08:45, miércoles 17:48, viernes 14:20** (Europe/Madrid). El viernes lleva CTA.
 - Se crean como **borradores** (saveToDraft). Solo se programan (customScheduled) tras el OK de Alberto.
-- Límite del plan: 10 posts programados.
+- **Cola de borradores y tope (decisión de Alberto, 04/11/2026):** Buffer tiene 10 posts programados como máximo (límite del plan), **compartidos con Instagram**, que va por otro lado. LinkedIn ocupa **como máximo 4** a la vez. Los posts futuros esperan en Buffer como borradores; cuando Alberto da el OK pasan a «APROBADO» y quedan **en cola**. La tarea de sincronización los programa por orden (el aprobado más antiguo primero) en cuanto haya hueco: huecos = mín(4 − programados de LinkedIn, 10 − programados totales de la organización).
+- **Asignación de fecha:** la fecha de `post.md` es orientativa. Al programar, cada aprobado ocupa el siguiente hueco libre de calendario de LinkedIn (lunes 08:45, miércoles 17:48, viernes 14:20) posterior a ahora + 2 h, sin otro post de LinkedIn ese día y con un solo post con CTA de SYNC² por semana (lunes a domingo). Si el que toca lleva CTA y esa semana ya tiene uno, se programa antes un aprobado sin CTA, si lo hay.
+- **Colchón:** tener siempre unos 3 borradores de LinkedIn en Buffer (pendientes de OK o aprobados en cola) además de los programados.
 - Imágenes: `raw.githubusercontent.com/acondemellado/LinkedIN-Glucovibes/main/borradores/AAAA-MM-DD_tema/infografia.png`.
 
 ## 8. Ciclo semanal
-- **Viernes 05:00 (tarea automática):** genera los 3 posts de la semana siguiente (lunes a viernes), los sube al repo y los crea como borradores en Buffer.
+- **Viernes 05:00 (tarea automática «LinkedIn · borradores semanales»):** repone la cola: genera los borradores que falten hasta tener 3 en Buffer (pendientes de OK o aprobados sin programar), los sube al repo y los crea como borradores en Buffer. Si ya hay 3 o más, no genera nada. Cada borrador lleva una fecha propuesta: los siguientes huecos de calendario que queden libres después de los programados y de los borradores anteriores.
 - **UN EMAIL POR POST (3 emails)**, desde alberto@glucovibes.com a acondemellado@gmail.com, para que Alberto responda a cada uno por separado.
   - Asunto: «[LinkedIn] Borrador · <Día> DD/MM HH:MM · <titular de la imagen> – OK o cambios».
   - Cabecera del cuerpo: «Ref: <carpeta del post> · Buffer (borrador) <id>».
@@ -62,7 +64,7 @@ Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca
   - «OK» → programar ESE post.
   - Cambios → aplicarlos, responder en el mismo hilo con la versión nueva y esperar OK.
 - **Retoques en Buffer:** tras dar el OK (o incluso antes), Alberto puede retocar el texto o la hora directamente en Buffer. **Buffer manda sobre el repo.** Los cambios que van más allá de una edición de texto (enfoque, imagen…) los pide por email.
-- **Tarea «LinkedIn · sincronizar Buffer y revisar OK»:** de viernes a lunes, a las 10:00 y a las 20:00 (cambio pedido por Alberto el 04/11/2026).
+- **Tarea «LinkedIn · sincronizar Buffer y revisar OK»:** todos los días a las 10:00 y a las 20:00 (horas pedidas por Alberto el 04/11/2026; desde el 04/11 también entre semana, para programar la cola en cuanto se libere un hueco).
   - Primero sincroniza desde Buffer (solo lectura): guarda el texto de Alberto en `texto_final.txt` (versiones anteriores como `texto_final_vN.txt`) y actualiza el estado, la fecha y la hora en `post.md`.
   - Compara tu versión con la suya y añade a la 8b los aprendizajes de estilo generalizables, con ejemplos «antes → después».
   - Después procesa las respuestas por email:
@@ -72,7 +74,7 @@ Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca
 - **Programar en Buffer** (lección aprendida):
   - edit_post exige reenviar el post completo: text + assets (url, thumbnailUrl, altText) + mode customScheduled + dueAt + **saveToDraft: false**.
   - Sin saveToDraft: false, el post se queda en estado «draft» aunque tenga fecha. Comprueba siempre que status = scheduled.
-- Sin OK, no se programa nada. Si la hora ya ha pasado al recibir el OK, se propone en el hilo el siguiente hueco.
+- Sin OK, no se programa nada. Si la fecha propuesta ya ha pasado o no hay hueco, el post espera en la cola y se programa en el siguiente hueco libre; se avisa en su hilo con la fecha y la hora asignadas.
 
 ## 8b. Aprendizajes de las ediciones de Alberto (aplicar siempre; se amplía con cada revisión)
 Revisión del 30/10/2026 (posts del 4/11 y del 6/11):
@@ -93,6 +95,11 @@ Revisión final del 30/10/2026 (Alberto editó y programó directamente en Buffe
 - **Revisión previa obligatoria:** erratas y signos («vas a comer», «?.»).
 - **Decisiones intencionadas de Alberto (no volver a señalarlas):** frases rotundas («pico de glucosa garantizado»), datos agregados de usuarios de Glucovibes (p. ej. ayuno y cortisol) y mencionar GlucoScore en posts sin CTA. También la concentración como efecto en el día a día (post del donut, 4/11): «sé lo que digo». Respeta su voz: si algo te parece arriesgado, coméntalo una vez en el email, sin insistir.
 - **Versiones:** cuando cambie la imagen, guárdala como `infografia_v2.png`, `_v3`… (nunca sobrescribir), para evitar cachés de GitHub, Buffer o LinkedIn.
+
+Publicación del donut (04/11/2026; Alberto lo adelantó a las 08:50 y lo retocó en Buffer):
+- **Cierre con palabra clave en comentarios:** «Si quieres la receta del donut saludable, solo tienes que escribir "donut" en comentarios y te la envío 😋». Cuando haya una receta o un recurso propio, ofrecerlo así en posts sin CTA (no es venta de SYNC²).
+- **Titular en segunda persona y con matiz:** «¿Un donut a media mañana? Depende de cuál.» → «¿Te hace un donut a media mañana? Depende de cuál, el impacto será muy diferente.»
+- **Detalle del alimento real:** precisa los ingredientes de la versión Glucovibes («hortalizas, fruta y comida real… chocolate de alta pureza»).
 
 ## 9. Registro
 Cada post vive en `borradores/AAAA-MM-DD_tema/` con `post.md` (texto y ficha), `foto_raw.png`, `curvas.png` (si hay) e `infografia.png`. Estado en la cabecera de `post.md`: BORRADOR → PROGRAMADO (con ID de Buffer) → PUBLICADO.
