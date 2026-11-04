@@ -112,5 +112,8 @@ Ediciones en Buffer del 04/11/2026 (mermelada 11/11 e inflamación 13/11):
 - **Explicar los indicadores propios:** «Son indicadores estimativos desde tus datos»; biomarcadores estáticos (analítica, no cambian hasta la siguiente) frente a dinámicos (estabilidad glucémica, cambian a diario). Sustituye al límite del estudio en «A tener en cuenta».
 - Alberto usó «sensor Glucovibes» en el texto (decisión suya; en la imagen sigue prohibido).
 
+Ediciones en Buffer del 04/11/2026, tarde (zumo 6/11):
+- **Hilo entre posts, también hacia atrás (confirmado el 04/11/2026):** Alberto añade en el arranque una pregunta retórica que enlaza con un post ya publicado: «…de ganar peso...» → «…de ganar peso... ¿O pensabas que solo el donut de la publicación de hace unos días era el culpable de la evolución no deseada?». Cuando un post anterior trate un caso parecido, cítalo así en el arranque.
+
 ## 9. Registro
 Cada post vive en `borradores/AAAA-MM-DD_tema/` con `post.md` (texto y ficha), `foto_raw.png`, `curvas.png` (si hay) e `infografia.png`. Estado en la cabecera de `post.md`: BORRADOR → PROGRAMADO (con ID de Buffer) → PUBLICADO.
