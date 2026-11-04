@@ -52,6 +52,7 @@ Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca
 - **Cola de borradores y tope (decisión de Alberto, 04/11/2026):** Buffer tiene 10 posts programados como máximo (límite del plan), **compartidos con Instagram**, que va por otro lado. LinkedIn ocupa **como máximo 4** a la vez. Los posts futuros esperan en Buffer como borradores; cuando Alberto da el OK pasan a «APROBADO» y quedan **en cola**. La tarea de sincronización los programa por orden (el aprobado más antiguo primero) en cuanto haya hueco: huecos = mín(4 − programados de LinkedIn, 10 − programados totales de la organización).
 - **Asignación de fecha:** la fecha de `post.md` es orientativa. Al programar, cada aprobado ocupa el siguiente hueco libre de calendario de LinkedIn (lunes 08:45, miércoles 17:48, viernes 14:20) posterior a ahora + 2 h, sin otro post de LinkedIn ese día y con un solo post con CTA de SYNC² por semana (lunes a domingo). Si el que toca lleva CTA y esa semana ya tiene uno, se programa antes un aprobado sin CTA, si lo hay.
 - **Colchón:** tener siempre unos 3 borradores de LinkedIn en Buffer (pendientes de OK o aprobados en cola) además de los programados.
+- **Instagram aparcado (decisión de Alberto, 04/11/2026):** los posts de Instagram programados con mucha antelación (p. ej. los de Navidad) se pasan a borrador en Buffer conservando su fecha y se anotan en `instagram_aparcados.json`. Se vuelven a programar a su fecha original cuando falten 14 días o menos, con prioridad sobre la cola de LinkedIn. Si aparece algún post de Instagram programado a más de 21 días vista y el total de programados es de 9 o más, se aparca igual y se anota.
 - Imágenes: `raw.githubusercontent.com/acondemellado/LinkedIN-Glucovibes/main/borradores/AAAA-MM-DD_tema/infografia.png`.
 
 ## 8. Ciclo semanal
@@ -100,6 +101,16 @@ Publicación del donut (04/11/2026; Alberto lo adelantó a las 08:50 y lo retoc�
 - **Cierre con palabra clave en comentarios:** «Si quieres la receta del donut saludable, solo tienes que escribir "donut" en comentarios y te la envío 😋». Cuando haya una receta o un recurso propio, ofrecerlo así en posts sin CTA (no es venta de SYNC²).
 - **Titular en segunda persona y con matiz:** «¿Un donut a media mañana? Depende de cuál.» → «¿Te hace un donut a media mañana? Depende de cuál, el impacto será muy diferente.»
 - **Detalle del alimento real:** precisa los ingredientes de la versión Glucovibes («hortalizas, fruta y comida real… chocolate de alta pureza»).
+
+Ediciones en Buffer del 04/11/2026 (mermelada 11/11 e inflamación 13/11):
+- **Fuente del caso, más cercana:** «Una persona usuaria de Glucovibes lo midió con su kit Glucovibes» → «Una viber compartió con nosotros sus datos». Puede usarse «viber» en LinkedIn.
+- **Consecuencia sentida junto al dato:** añade tras la cifra «Sensación de hambre al poco tiempo».
+- **Pregunta retórica que conecta con la experiencia:** «¿Ahora sabes por qué tu cuerpo quiere una galleta o algo dulce en esos momentos? Efectivamente, por la caída de glucosa…».
+- **Acción gradual, no todo o nada:** «Puedes probar media de cada»; «Prueba a pasarte a la salada alguna vez».
+- **Arranque con el tópico popular:** «el desayuno, la comida más importante del día que se suele decir».
+- **No enseñar sus propios datos como suyos:** «Los míos, en la imagen» → «Un ejemplo, en la imagen».
+- **Explicar los indicadores propios:** «Son indicadores estimativos desde tus datos»; biomarcadores estáticos (analítica, no cambian hasta la siguiente) frente a dinámicos (estabilidad glucémica, cambian a diario). Sustituye al límite del estudio en «A tener en cuenta».
+- Alberto usó «sensor Glucovibes» en el texto (decisión suya; en la imagen sigue prohibido).
 
 ## 9. Registro
 Cada post vive en `borradores/AAAA-MM-DD_tema/` con `post.md` (texto y ficha), `foto_raw.png`, `curvas.png` (si hay) e `infografia.png`. Estado en la cabecera de `post.md`: BORRADOR → PROGRAMADO (con ID de Buffer) → PUBLICADO.
