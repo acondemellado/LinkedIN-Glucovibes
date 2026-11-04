@@ -1,5 +1,5 @@
 # Borrador · El mito de la tostada con mermelada
-Estado: BORRADOR · Buffer (borrador) PENDIENTE · creado el 04/11/2026
+Estado: BORRADOR · Buffer (borrador) 6aeb372381e17bedf0e5a11e · creado el 04/11/2026
 Fecha propuesta: miércoles 11/11/2026 17:48 (o el siguiente hueco libre de LinkedIn en Buffer; máximo 4 posts de LinkedIn programados a la vez) · Pilar: metabolismo en la jornada · Serie de la semana: el desayuno (continúa el post del ayuno del lunes 9/11) · CTA: NO · Plantilla: P1 + curvas reales redibujadas
 Fuente Glucovibes: Glucovibes-Posts/01_pico-y-bajon (publicado en Instagram el 21/10/2026), curvas.png
 
