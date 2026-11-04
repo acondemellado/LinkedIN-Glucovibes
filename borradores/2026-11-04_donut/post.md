@@ -1,5 +1,5 @@
 # Borrador · ¿Un donut a media mañana? Depende de cuál.
-Estado: PROGRAMADO · Buffer 6ae868b9b0da614b554153fd · miércoles 4/11/2026 17:48 · Programado el 02/11/2026 a petición de Alberto (texto alineado con el caption de Instagram: «hortalizas, fruta y comida real», «cómo está hecho y con qué»).
+Estado: PUBLICADO · Buffer 6ae868b9b0da614b554153fd · miércoles 4/11/2026 08:50 (Alberto lo adelantó desde las 17:48 y retocó el texto en Buffer; sincronizado el 04/11/2026). Texto publicado: texto_final.txt (manda sobre la sección «Texto»). LinkedIn: https://www.linkedin.com/feed/update/urn:li:share:7523652850829238272
 Fecha propuesta: miércoles 4/11/2026 17:48 · Pilar: metabolismo en la jornada · CTA: NO · Plantilla: slide 3/6 del carrusel de Instagram (curvas reales)
 Fuente Glucovibes: Glucovibes-Posts/13_donut-casero-vs-industrial (slide_03.png; Buffer Instagram 6adeffd67333971c1ebb4881)
 Reorganización pedida: el post que estaba el miércoles 4/11 17:56 (2026-11-06_desayuno, con CTA, Buffer 6ae45d9eceb12661efd81a6e) pasa al siguiente hueco libre tras los programados: lunes 9/11/2026 08:45, sin cambiar su texto ni su imagen.
