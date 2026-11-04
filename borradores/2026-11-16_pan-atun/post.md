@@ -1,5 +1,5 @@
 # Borrador · El mito de que comer bien lleva tiempo
-Estado: BORRADOR · Buffer (borrador) 6aeb37f8bd95a2bd48fc50e3 · creado el 04/11/2026 · **IMAGEN PENDIENTE: no programar sin infografía**
+Estado: BORRADOR · Buffer (borrador) 6aeb37f8bd95a2bd48fc50e3 · creado el 04/11/2026 · imagen añadida el 04/11/2026
 Fecha propuesta: lunes 16/11/2026 08:45 (o el siguiente hueco libre de LinkedIn en Buffer; máximo 4 posts de LinkedIn programados a la vez) · Pilar: metabolismo en la jornada · Serie de la semana: la comida en un día de trabajo (abre la semana del 16/11; enlaza con la serie del desayuno) · CTA: NO (la semana del 16/11 aún no tiene CTA; por defecto irá en el post del viernes 20/11) · Plantilla prevista: P1 (misma persona: bocadillo de pan blanco vs pan de atún relleno) o P3 (objetos), sin curvas
 Fuente Glucovibes: Glucovibes-Posts/06_pan-de-atun (receta publicada en Instagram el 31/10/2026, Buffer 6ad88a3c7f2a5e272ecbc9d1). No hay curvas medidas de esta receta.
 
@@ -30,7 +30,7 @@ Si quieres la receta paso a paso, escribe ATÚN en comentarios y te la envío. L
 «El mito de que comer bien lleva tiempo» (mismo titular que la primera línea). Alternativa tipo reto: «¿Quién estará pensando en picar a las 17:00?» (hambre tras la caída, respaldado por Wyatt 2021; «17:00» en coral).
 
 ## Imagen
-PENDIENTE. La ejecución del 04/11/2026 (tarea de reposición) corrió en la nube sin acceso al Mac ni al Chrome de Alberto: no se pudo generar la foto en ChatGPT. Prompt previsto: foto realista horizontal 3:2 dividida por una línea blanca fina; misma persona (hombre de unos 45 años, camisa, cocina de casa a mediodía) en las dos mitades; izquierda: bocadillo de pan blanco; derecha: pan de atún verde relleno de pepino y aguacate en un plato. Sin texto, logos ni marcas. Componer con `tools/componer.js` (sin curvas).
+Foto ilustrativa generada en ChatGPT el 04/11/2026 (cuadrada; mismo hombre: bocadillo de pan blanco con jamón cocido frente a pan de atún relleno de pepino y aguacate), recogida por captura y compuesta con `tools/componer.js` (rótulos «Bocadillo» / «Pan de atún» y titular «El mito de que comer bien lleva tiempo»). Sin curvas: no hay medición de esta receta.
 
 ## Fuentes y límites
 - Atkinson FS, Foster-Powell K, Brand-Miller JC. International tables of glycemic index and glycemic load values: 2008. Diabetes Care 2008;31(12):2281-3. Pan blanco de trigo: IG medio 75 ± 2. Límite: el IG se mide con el alimento aislado; con relleno cambia.
