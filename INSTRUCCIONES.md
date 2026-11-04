@@ -62,7 +62,7 @@ Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca
   - «OK» → programar ESE post.
   - Cambios → aplicarlos, responder en el mismo hilo con la versión nueva y esperar OK.
 - **Retoques en Buffer:** tras dar el OK (o incluso antes), Alberto puede retocar el texto o la hora directamente en Buffer. **Buffer manda sobre el repo.** Los cambios que van más allá de una edición de texto (enfoque, imagen…) los pide por email.
-- **Tarea «LinkedIn · sincronizar Buffer y revisar OK»:** de viernes a lunes, cada 3 horas (06:53–21:53).
+- **Tarea «LinkedIn · sincronizar Buffer y revisar OK»:** de viernes a lunes, a las 10:00 y a las 20:00 (cambio pedido por Alberto el 04/11/2026).
   - Primero sincroniza desde Buffer (solo lectura): guarda el texto de Alberto en `texto_final.txt` (versiones anteriores como `texto_final_vN.txt`) y actualiza el estado, la fecha y la hora en `post.md`.
   - Compara tu versión con la suya y añade a la 8b los aprendizajes de estilo generalizables, con ejemplos «antes → después».
   - Después procesa las respuestas por email:
