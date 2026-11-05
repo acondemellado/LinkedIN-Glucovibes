@@ -98,7 +98,7 @@ Revisión final del 30/10/2026 (Alberto editó y programó directamente en Buffe
 - **Versiones:** cuando cambie la imagen, guárdala como `infografia_v2.png`, `_v3`… (nunca sobrescribir), para evitar cachés de GitHub, Buffer o LinkedIn.
 
 Publicación del donut (04/11/2026; Alberto lo adelantó a las 08:50 y lo retocó en Buffer):
-- **Cierre con palabra clave en comentarios:** «Si quieres la receta del donut saludable, solo tienes que escribir "donut" en comentarios y te la envío 😋». Cuando haya una receta o un recurso propio, ofrecerlo así en posts sin CTA (no es venta de SYNC²).
+- **Cierre con palabra clave en comentarios:** «Si quieres la receta del donut saludable, solo tienes que escribir "donut" en comentarios y te la envío 😋». Úsalo solo de forma puntual, cuando el post ya trate un caso medido (actualizado el 05/11/2026: un post construido alrededor de una receta fue rechazado, ver abajo).
 - **Titular en segunda persona y con matiz:** «¿Un donut a media mañana? Depende de cuál.» → «¿Te hace un donut a media mañana? Depende de cuál, el impacto será muy diferente.»
 - **Detalle del alimento real:** precisa los ingredientes de la versión Glucovibes («hortalizas, fruta y comida real… chocolate de alta pureza»).
 
@@ -114,6 +114,11 @@ Ediciones en Buffer del 04/11/2026 (mermelada 11/11 e inflamación 13/11):
 
 Ediciones en Buffer del 04/11/2026, tarde (zumo 6/11):
 - **Hilo entre posts, también hacia atrás (confirmado el 04/11/2026):** Alberto añade en el arranque una pregunta retórica que enlaza con un post ya publicado: «…de ganar peso...» → «…de ganar peso... ¿O pensabas que solo el donut de la publicación de hace unos días era el culpable de la evolución no deseada?». Cuando un post anterior trate un caso parecido, cítalo así en el arranque.
+
+Cambios pedidos por email el 04/11/2026 (pan de atún 16/11, rechazado; procesado el 05/11/2026):
+- **LinkedIn no es Instagram: pocas recetas.** Céntrate en biología, metabolismo y conocimiento práctico; las recetas, en Instagram. Antes → después: «Nuestra alternativa favorita… pan de atún al microondas. Atún escurrido, espinacas, 2 huevos…» → «Prueba a montar el tupper en tres partes: la mitad verdura, un cuarto de proteína y un cuarto de hidrato, mejor integral».
+- **Temas de comida en el trabajo que sí encajan:** cambiar el tipo de pan o pasar a integrales; el tupper que integra los macronutrientes de forma rápida; comer fuera empezando por algo verde (ensalada, verduras, cremas) y después una buena proteína acompañada de los hidratos si hay dos platos. Un tema amplio se puede partir en dos entradas de calidad.
+- **Curvas reales de varias opciones:** búscalas en newsletters de Mailchimp anteriores antes de recurrir solo a estudios.
 
 ## 9. Registro
 Cada post vive en `borradores/AAAA-MM-DD_tema/` con `post.md` (texto y ficha), `foto_raw.png`, `curvas.png` (si hay) e `infografia.png`. Estado en la cabecera de `post.md`: BORRADOR → PROGRAMADO (con ID de Buffer) → PUBLICADO.

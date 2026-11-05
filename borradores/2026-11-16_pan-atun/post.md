@@ -1,5 +1,5 @@
 # Borrador · El mito de que comer bien lleva tiempo
-Estado: BORRADOR · Buffer (borrador) 6aeb37f8bd95a2bd48fc50e3 · creado el 04/11/2026 · imagen añadida el 04/11/2026
+Estado: DESCARTADO (04/11/2026) · Alberto rechazó el enfoque por email: en LinkedIn, pocas recetas; temas más bio, de metabolismo y de conocimiento. Su borrador de Buffer (6aeb37f8bd95a2bd48fc50e3) se reutiliza para `2026-11-16_tupper`, y se añade `2026-11-18_comer-fuera`. (Antes: BORRADOR · creado el 04/11/2026 · imagen añadida el 04/11/2026)
 Fecha propuesta: lunes 16/11/2026 08:45 (o el siguiente hueco libre de LinkedIn en Buffer; máximo 4 posts de LinkedIn programados a la vez) · Pilar: metabolismo en la jornada · Serie de la semana: la comida en un día de trabajo (abre la semana del 16/11; enlaza con la serie del desayuno) · CTA: NO (la semana del 16/11 aún no tiene CTA; por defecto irá en el post del viernes 20/11) · Plantilla prevista: P1 (misma persona: bocadillo de pan blanco vs pan de atún relleno) o P3 (objetos), sin curvas
 Fuente Glucovibes: Glucovibes-Posts/06_pan-de-atun (receta publicada en Instagram el 31/10/2026, Buffer 6ad88a3c7f2a5e272ecbc9d1). No hay curvas medidas de esta receta.
 
