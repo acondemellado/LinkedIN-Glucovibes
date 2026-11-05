@@ -93,7 +93,7 @@ Revisión final del 30/10/2026 (Alberto editó y programó directamente en Buffe
 - **Acción concreta con alimentos:** proteína y grasa saludable (yogur, frutos secos, kéfir, skyr) y cierre cercano («Luego me cuentas»).
 - **Etiquetas de los matices:** «Consideraciones» o «A tener en cuenta» (alterna; no siempre «Dos matices»).
 - **Calendario:** el post con CTA no tiene por qué ir el viernes (esta semana fue el miércoles). Horas usadas: lunes 08:45, miércoles 17:56, viernes 14:06. Propón día y hora, pero Alberto puede reordenar.
-- **Revisión previa obligatoria:** erratas y signos («vas a comer», «?.»).
+- **Revisión previa obligatoria:** erratas, tildes y signos («vas a comer», «?.»; confirmado el 05/11/2026: «el impacto sera» → «será»).
 - **Decisiones intencionadas de Alberto (no volver a señalarlas):** frases rotundas («pico de glucosa garantizado»), datos agregados de usuarios de Glucovibes (p. ej. ayuno y cortisol) y mencionar GlucoScore en posts sin CTA. También la concentración como efecto en el día a día (post del donut, 4/11): «sé lo que digo». Respeta su voz: si algo te parece arriesgado, coméntalo una vez en el email, sin insistir.
 - **Versiones:** cuando cambie la imagen, guárdala como `infografia_v2.png`, `_v3`… (nunca sobrescribir), para evitar cachés de GitHub, Buffer o LinkedIn.
 
@@ -103,7 +103,7 @@ Publicación del donut (04/11/2026; Alberto lo adelantó a las 08:50 y lo retoc�
 - **Detalle del alimento real:** precisa los ingredientes de la versión Glucovibes («hortalizas, fruta y comida real… chocolate de alta pureza»).
 
 Ediciones en Buffer del 04/11/2026 (mermelada 11/11 e inflamación 13/11):
-- **Fuente del caso, más cercana:** «Una persona usuaria de Glucovibes lo midió con su kit Glucovibes» → «Una viber compartió con nosotros sus datos». Puede usarse «viber» en LinkedIn.
+- **Fuente del caso, más cercana:** «Una persona usuaria de Glucovibes lo midió con su kit Glucovibes» → «Una viber compartió con nosotros sus datos». Puede usarse «viber» en LinkedIn. Confirmado el 05/11/2026 (donut, retocado tras publicarse): «Una persona usuaria de Glucovibes lo midió con su kit Glucovibes: dos donuts…» → «Ejemplo real de dos donuts diferentes en la misma persona…». Evita la fórmula «persona usuaria… con su kit Glucovibes»: presenta el caso como ejemplo real, en lenguaje llano.
 - **Consecuencia sentida junto al dato:** añade tras la cifra «Sensación de hambre al poco tiempo».
 - **Pregunta retórica que conecta con la experiencia:** «¿Ahora sabes por qué tu cuerpo quiere una galleta o algo dulce en esos momentos? Efectivamente, por la caída de glucosa…».
 - **Acción gradual, no todo o nada:** «Puedes probar media de cada»; «Prueba a pasarte a la salada alguna vez».
