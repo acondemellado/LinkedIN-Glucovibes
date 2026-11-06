@@ -1,14 +1,17 @@
 // Dibuja dos curvas reales (ya digitalizadas o exportadas) lado a lado, en el estilo de las curvas de Glucovibes.
 // Uso: node dibujar_curvas.js <datos.json> <salida.png>
-// datos.json: {"paneles":[{"titulo","sub","puntos":[[horaDecimal,mgdl],...],"stats":[["Máximo","120 mg/dl"],...]}...],"x":[2,12,2],"y":[60,160,20]}
+// datos.json: {"paneles":[{"titulo","sub","puntos":[[horaDecimal,mgdl],...],"stats":[["Máximo","120 mg/dl"],...],"x"?:[x0,x1,paso]}...],"x":[2,12,2],"y":[60,160,20]}
+// Cada panel puede llevar su propio eje "x"; las horas por encima de 24 (pasada la medianoche) se rotulan módulo 24.
 const { chromium } = require('playwright'); const fs = require('fs');
 const [datos, salida] = process.argv.slice(2); const D = JSON.parse(fs.readFileSync(datos));
-const W=480,H=280,ml=50,mr=16,mt=14,mb=38, [x0,x1,xs]=D.x, [y0,y1,ys]=D.y;
+const W=480,H=280,ml=50,mr=16,mt=14,mb=38, [y0,y1,ys]=D.y;
+let x0,x1,xs; // eje X por panel opcional (p.x), horas >24 se rotulan módulo 24
 const px=t=>ml+(t-x0)/(x1-x0)*(W-ml-mr), py=v=>mt+(y1-v)/(y1-y0)*(H-mt-mb);
 function svg(p){
+  [x0,x1,xs]=p.x||D.x;
   let g='';
   for(let v=y0;v<=y1;v+=ys) g+=`<line x1="${ml}" x2="${W-mr}" y1="${py(v)}" y2="${py(v)}" stroke="#E6E6E6"/><text x="${ml-8}" y="${py(v)+6}" text-anchor="end" font-size="19" fill="#555">${v}</text>`;
-  for(let t=Math.ceil(x0/xs)*xs;t<=x1;t+=xs) g+=`<line x1="${px(t)}" x2="${px(t)}" y1="${mt}" y2="${H-mb}" stroke="#F0F0F0"/><text x="${px(t)}" y="${H-mb+26}" text-anchor="middle" font-size="18" fill="#555">${String(t).padStart(2,'0')}:00</text>`;
+  for(let t=Math.ceil(x0/xs)*xs;t<=x1;t+=xs) g+=`<line x1="${px(t)}" x2="${px(t)}" y1="${mt}" y2="${H-mb}" stroke="#F0F0F0"/><text x="${px(t)}" y="${H-mb+26}" text-anchor="middle" font-size="18" fill="#555">${String(t%24).padStart(2,'0')}:00</text>`;
   const pts=p.puntos.map(([t,v])=>`${px(t).toFixed(1)},${py(v).toFixed(1)}`).join(' ');
   const a=p.puntos[0], b=p.puntos[p.puntos.length-1];
   const area=`M${px(a[0])},${py(y0)} L${pts.replace(/ /g,' L')} L${px(b[0])},${py(y0)} Z`;
