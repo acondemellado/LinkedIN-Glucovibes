@@ -1,6 +1,6 @@
 # Borrador · El mito de que solo importa lo que comes
-Estado: BORRADOR · IMAGEN PENDIENTE · Buffer (borrador) 6aecd403d8b894d9433db301 · creado el 05/11/2026 a petición de Alberto (segunda entrada de la reescritura del pan de atún). Pendiente de OK y de curvas reales. Texto publicado: texto_final.txt (manda sobre la sección «Texto»). Alberto retocó el borrador en Buffer el 06/11/2026 (texto_final_v1.txt) y pidió por email ese mismo día añadir la gestión de la energía (más despierto y sin sopor con curvas estables frente a pico y bajón) y una infografía del orden de los platos; versión con esos cambios en texto_final.txt y en el borrador de Buffer (06/11/2026). Pendiente de OK de Alberto.
-Fecha propuesta: miércoles 18/11/2026 17:48 (o el siguiente hueco libre de LinkedIn en Buffer; máximo 4 programados) · Pilar: metabolismo en la jornada · Serie de la semana: la comida en un día de trabajo (2/2; cita el tupper del lunes) · CTA: NO (el CTA de la semana del 16/11 iría el viernes 20/11) · Plantilla prevista: P1 (misma persona en un restaurante: empieza por el pan vs empieza por la ensalada) + curvas reales si las hay
+Estado: BORRADOR · Buffer (borrador) 6aecd403d8b894d9433db301 · creado el 05/11/2026 a petición de Alberto. Texto publicado: texto_final.txt (manda sobre la sección «Texto»): versión corregida por Alberto por email el 06/11/2026 (nuevo titular-pregunta, escena con clientes, sopor y siesta en lugar de la analogía del ciclista, cierre con dos preguntas), con erratas corregidas; aplicada al borrador de Buffer el 06/11/2026 (versiones anteriores: texto_final_v1.txt, texto_final_v2.txt). Imagen v1 generada el 06/11/2026 (infografia.png): orden de los platos 1 verde → 2 proteína → 3 hidratos. Enviada a Alberto para validar; pendiente de OK.
+Fecha propuesta: viernes 27/11/2026 14:20 (nuevo ritmo: semana del 23/11 martes y viernes; el martes 24 iría la cena tarde, con CTA) · Pilar: metabolismo en la jornada · Serie: la comida en un día de trabajo · CTA: NO · Plantilla: P3 (objetos: tres platos en orden) con números y rótulos
 
 ## Texto
 El mito de que solo importa lo que comes.
@@ -23,10 +23,10 @@ Cuando comas fuera, empieza por algo verde: ensalada, verduras a la plancha, una
 ¿Por dónde empiezas tú el menú del día?
 
 ## Titular de la imagen (propuesto)
-«El mito de que solo importa lo que comes». Alternativa tipo reto: «¿Quién estará pensando en picar a las 17:00?» («17:00» en coral).
+Usado: «¿Quién seguirá despierto en la reunión de las 16:00?». Antes: «El mito de que solo importa lo que comes». Alternativa tipo reto: «¿Quién estará pensando en picar a las 17:00?» («17:00» en coral).
 
 ## Imagen
-Pendiente. Petición de Alberto (06/11/2026): imagen a modo de infografía sobre la importancia del orden en las comidas (1 verde → 2 proteína → 3 hidratos), conectada con la energía de la tarde (curva estable frente a pico y bajón). Se genera en una ejecución con Chrome disponible (el 06/11 había dos navegadores conectados y ninguno seleccionado). Idea anterior, descartada salvo que Alberto la prefiera: misma persona empezando por el pan frente a empezando por la ensalada.
+infografia.png (v1, 06/11/2026): titular-reto «¿Quién seguirá despierto en la reunión de las 16:00?» («16:00» en coral; somnolencia por pico y bajón: ángulo pedido por Alberto, sin estudio citado). Foto cenital generada en ChatGPT (foto_raw.png): ensalada, pollo a la plancha y arroz integral con patatas, numerados 1-2-3, con rótulos Verde / Proteína / Hidratos y la frase «Lo mismo, en otro orden: el hidrato llega con freno y la tarde, con menos pico y menos bajón.». Sin curvas (no hay reales). Nota: «Foto ilustrativa. La respuesta varía entre personas.»
 
 ## Fuentes y límites
 - Shukla AP, Iliescu RG, Thomas CE, Aronne LJ. Food order has a significant impact on postprandial glucose and insulin levels. Diabetes Care 2015;38(7):e98-e99. n = 11, diabetes tipo 2 con metformina; glucosa −29 %, −37 % y −17 % a los 30, 60 y 120 min con verdura y proteína antes del pan y el zumo; insulina más baja. Límite: muestra pequeña, sin personas sanas.
@@ -34,5 +34,5 @@ Pendiente. Petición de Alberto (06/11/2026): imagen a modo de infografía sobre
 
 ## A confirmar
 - Energía y sopor: el texto asocia curva estable con estar más despierto y pico-bajón con sopor (petición de Alberto). No lleva un estudio citado; se le ha señalado por email por si quiere apoyarlo con datos de la comunidad Glucovibes o con un estudio.
-- Siguiente entrada propuesta por Alberto: hipoglucemia reactiva (qué es, cómo se da y sus efectos). El post ya la anuncia («te lo cuento en una próxima entrada»).
+- Siguiente entrada propuesta por Alberto: hipoglucemia reactiva (qué es, cómo se da y sus efectos). El post ya la anuncia («te lo contaré más adelante»).
 - Curvas reales de una persona usuaria de Glucovibes comiendo en distinto orden (verde primero vs hidrato primero): pedidas a Alberto (newsletters anteriores).

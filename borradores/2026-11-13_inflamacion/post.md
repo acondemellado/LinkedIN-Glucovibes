@@ -1,5 +1,5 @@
 # Borrador · Si no duele, ¿estás bien?
-Estado: PROGRAMADO · Buffer 6aeb372f380a83ae530a695a · viernes 13/11/2026 14:20 · Alberto lo editó en Buffer el 04/11/2026 y pidió programarlo; programado el 04/11/2026. Texto publicado: texto_final.txt (manda sobre la sección «Texto»).
+Estado: PROGRAMADO · Buffer 6aeb372f380a83ae530a695a · lunes 16/11/2026 08:45 · Movido el 06/11/2026 desde el viernes 13/11 14:20 a petición de Alberto (email: «Pasa la inflamación al lunes 16/11 y corre el resto»), con dos comas corregidas en «A tener en cuenta». Alberto lo editó en Buffer el 04/11/2026. Texto publicado: texto_final.txt (manda sobre la sección «Texto»).
 Fecha propuesta: viernes 13/11/2026 14:20 (o el siguiente hueco libre de LinkedIn en Buffer; máximo 4 posts de LinkedIn programados a la vez) · Pilar: longevidad / salud metabólica · Cierra la serie del desayuno: qué pasa si los picos se repiten durante años · CTA: NO (la semana del 9/11 ya lleva CTA el lunes) · Plantilla: P6 (pregunta como titular) + captura real de la app
 Fuente Glucovibes: Glucovibes-Posts/05_inflamacion-silenciosa (publicado en Instagram el 29/10/2026), app_inflamacion.png
 

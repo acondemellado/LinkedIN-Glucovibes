@@ -13,7 +13,7 @@ En Glucovibes la medimos con tres capas: tu analítica (PCR, NLR, ferritina, alb
 
 A tener en cuenta:
 • Estos índices no son un diagnóstico: sirven para ver tendencias y decidir qué hábitos cuidar. Son indicadores estimativos desde tus datos.
-• Los biomarcadores estáticos de una analítica de sangre, no cambian hasta que realices otra. Los dinámicos, procedentes de tu estabilidad glucémica mientras usas un sensor Glucovibes sí, y cambian diariamente.
+• Los biomarcadores estáticos de una analítica de sangre no cambian hasta que realices otra. Los dinámicos, procedentes de tu estabilidad glucémica mientras usas un sensor Glucovibes, sí, y cambian diariamente.
 
 Empieza por lo que ya sabes: menos picos (fruta entera, pan bien acompañado, proteína y grasa saludable en el desayuno), un paseo después de comer y dormir bien. Y en tu próxima analítica, mira la PCR con otros ojos.
 

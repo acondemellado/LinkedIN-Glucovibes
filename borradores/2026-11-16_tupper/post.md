@@ -1,6 +1,6 @@
 # Borrador · El mito del tupper de pasta para tener energía
-Estado: BORRADOR · IMAGEN PENDIENTE · Buffer (borrador) 6aeb37f8bd95a2bd48fc50e3 · reescrito el 05/11/2026 a petición de Alberto (sustituye al enfoque del pan de atún, `2026-11-16_pan-atun`, descartado; se reutiliza su borrador de Buffer, ya sin la imagen anterior). Pendiente de OK y de curvas reales (ver «A confirmar»). Petición de Alberto por email (06/11/2026): imagen a nivel de intestino que muestre cómo la fibra y el almidón resistente protegen y frenan el paso de la glucosa al torrente sanguíneo; quiere validarla junto con el post entero. Ofrece estimaciones de la app (plato solo de hidratos frente a plato equilibrado) y un historial de newsletters antiguas en PDF con curvas.
-Fecha propuesta: lunes 16/11/2026 08:45 (o el siguiente hueco libre de LinkedIn en Buffer; máximo 4 programados) · Pilar: metabolismo en la jornada · Serie de la semana: la comida en un día de trabajo (1/2; sigue `2026-11-18_comer-fuera`) · CTA: NO · Plantilla prevista: P1 + curvas reales si Alberto las aporta (tupper solo pasta vs tupper en tres partes); si no, P1/P6 sin curvas
+Estado: BORRADOR · Buffer (borrador) 6aeb37f8bd95a2bd48fc50e3 · reescrito el 05/11/2026 a petición de Alberto (sustituye al pan de atún, descartado). Texto publicado: texto_final.txt (manda sobre la sección «Texto»): versión de Alberto enviada por email el 06/11/2026 (arranque en primera persona con su experiencia con el arroz; sin la línea de titular ni «La semana pasada hablamos del desayuno»), con erratas corregidas; aplicada al borrador de Buffer el 06/11/2026. Imagen v1 generada el 06/11/2026 (infografia.png): ilustración del intestino (hidrato solo frente a fibra y almidón resistente) + estimaciones de la app Glucovibes enviadas por Alberto (pollo + arroz blanco + pan: hasta +92 mg/dl, saciedad esperada ISP 1 %; pollo + mijo + menestra: hasta +40 mg/dl, ISP 62 %). Enviada a Alberto para validar; pendiente de OK.
+Fecha propuesta: jueves 19/11/2026 17:48 (nuevo ritmo de Alberto del 06/11/2026: semana del 16/11 lunes y jueves; el lunes 16 lo ocupa la inflamación) · Pilar: metabolismo en la jornada · Serie: la comida en un día de trabajo · CTA: NO (post 4 tras el CTA del ayuno del 9/11) · Plantilla: ilustración de mecanismo + gráficas de la app
 
 ## Texto
 El mito del tupper de pasta para tener energía.
@@ -24,10 +24,10 @@ Prueba a montar el tupper en tres partes: la mitad, verdura (brócoli, judías v
 ¿Qué llevas hoy en el tupper?
 
 ## Titular de la imagen (propuesto)
-«El mito del tupper de pasta para tener energía». Alternativa tipo reto: «¿Quién llegará con energía a la reunión de las 16:00?» («16:00» en coral; respaldo: caídas tras el pico y hambre, Wyatt 2021).
+Usado: «¿Qué tupper te deja con hambre a las 17:00?». Antes: «El mito del tupper de pasta para tener energía». Alternativa tipo reto: «¿Quién llegará con energía a la reunión de las 16:00?» («16:00» en coral; respaldo: caídas tras el pico y hambre, Wyatt 2021).
 
 ## Imagen
-Pendiente. Misma persona (>35 años) comiendo en la oficina: a la izquierda, tupper solo de pasta; a la derecha, tupper en tres partes (verdura, pollo, arroz integral). Con curvas solo si son reales.
+infografia.png (v1, 06/11/2026): titular-reto «¿Qué tupper te deja con hambre a las 17:00?» («17:00» en coral; respaldo: caídas y hambre, Wyatt 2021, y saciedad esperada de la app). Ilustración del intestino generada en ChatGPT (foto_raw.png; izquierda «Solo hidrato», derecha «Con fibra y almidón resistente») y debajo las dos gráficas de la app Glucovibes (capturas de Alberto, IMG_7474/7475). Nota: «Ilustración. Gráficas: estimación de la app Glucovibes para dos platos (no es una medición). La respuesta varía entre personas.» Composición: script ad hoc (mismo estilo que tools/componer.js).
 
 ## Fuentes y límites
 - Sun L, Ranawana DV, Leow MK, Henry CJ. Effect of chicken, fat and vegetable on glycaemia and insulinaemia to a white rice-based meal in healthy adults. Eur J Nutr 2014;53(8):1719-26. Ensayo pequeño en adultos sanos; la combinación reduce la respuesta de glucosa del arroz.
@@ -40,4 +40,7 @@ Pendiente. Misma persona (>35 años) comiendo en la oficina: a la izquierda, tup
 - Alternativa: curvas de `Glucovibes-Posts/15_plato-segun-actividad` (127 vs 115 mg/dl), pendientes de que Alberto confirme qué curva es de cada plato y aún sin publicar en Instagram.
 
 ## Imagen pedida por Alberto (06/11/2026)
-Ilustración del intestino: a un lado, hidrato solo, la glucosa pasa rápido a la sangre; al otro, con fibra y almidón resistente formando una barrera o malla que frena y escalona el paso. Sin texto en la foto; titular y rótulos en la composición. Pendiente de generar en ChatGPT (Chrome) cuando haya un navegador seleccionado.
+Ilustración del intestino: a un lado, hidrato solo, la glucosa pasa rápido a la sangre; al otro, con fibra y almidón resistente formando una barrera o malla que frena y escalona el paso. Sin texto en la foto; titular y rótulos en la composición. Generada el 06/11/2026 (ver «Imagen»).
+
+- 06/11/2026: Alberto quitó la línea de titular del texto. Preguntado si quiere que la primera línea del post repita el titular de la imagen.
+- Newsletters en PDF: enlace de Drive enviado por Alberto el 06/11/2026 (https://drive.google.com/file/d/1Ld7JSbrVEeOh3EADgfohPEkJABtrec-w/view), para buscar curvas reales.
