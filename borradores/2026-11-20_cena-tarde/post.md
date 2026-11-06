@@ -1,5 +1,5 @@
 # Borrador · ¿Da igual cenar a las 23:00?
-Estado: BORRADOR · Buffer (borrador) PENDIENTE · creado el 06/11/2026 por la tarea «LinkedIn · borradores semanales». Pendiente de OK.
+Estado: BORRADOR · Buffer (borrador) 6aed525986fe9b83796fec9d · creado el 06/11/2026 por la tarea «LinkedIn · borradores semanales». Pendiente de OK.
 Fecha propuesta: viernes 20/11/2026 14:20 (orientativa: con el OK entra en la cola y se programa en el primer hueco libre de LinkedIn; máximo 4 programados a la vez) · Pilar: metabolismo en la jornada · Serie de la semana: la comida en un día de trabajo (cierra la serie tras el tupper del lunes 16/11 y comer fuera del miércoles 18/11) · CTA: SÍ (único de la semana del 16 al 22/11) · Plantilla: P3 (objetos: mismo plato y reloj, sin personas) + curvas reales redibujadas
 Fuente Glucovibes: «Cómo afecta» de Instagram del horario de las comidas (Buffer 6ad880a1785291f70efedae1, publicado el 16/07/2025) y Glucovibes-Posts/08_cena-temprana-vs-tarde (curvas.png; reposición programada en Instagram el 21/11/2026, ver «A confirmar»).
 
