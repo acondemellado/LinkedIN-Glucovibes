@@ -1,5 +1,5 @@
 # Borrador · El mito del tupper de pasta para tener energía
-Estado: BORRADOR · IMAGEN PENDIENTE · Buffer (borrador) 6aeb37f8bd95a2bd48fc50e3 · reescrito el 05/11/2026 a petición de Alberto (sustituye al enfoque del pan de atún, `2026-11-16_pan-atun`, descartado; se reutiliza su borrador de Buffer, ya sin la imagen anterior). Pendiente de OK y de curvas reales (ver «A confirmar»).
+Estado: BORRADOR · IMAGEN PENDIENTE · Buffer (borrador) 6aeb37f8bd95a2bd48fc50e3 · reescrito el 05/11/2026 a petición de Alberto (sustituye al enfoque del pan de atún, `2026-11-16_pan-atun`, descartado; se reutiliza su borrador de Buffer, ya sin la imagen anterior). Pendiente de OK y de curvas reales (ver «A confirmar»). Petición de Alberto por email (06/11/2026): imagen a nivel de intestino que muestre cómo la fibra y el almidón resistente protegen y frenan el paso de la glucosa al torrente sanguíneo; quiere validarla junto con el post entero. Ofrece estimaciones de la app (plato solo de hidratos frente a plato equilibrado) y un historial de newsletters antiguas en PDF con curvas.
 Fecha propuesta: lunes 16/11/2026 08:45 (o el siguiente hueco libre de LinkedIn en Buffer; máximo 4 programados) · Pilar: metabolismo en la jornada · Serie de la semana: la comida en un día de trabajo (1/2; sigue `2026-11-18_comer-fuera`) · CTA: NO · Plantilla prevista: P1 + curvas reales si Alberto las aporta (tupper solo pasta vs tupper en tres partes); si no, P1/P6 sin curvas
 
 ## Texto
@@ -38,3 +38,6 @@ Pendiente. Misma persona (>35 años) comiendo en la oficina: a la izquierda, tup
 ## A confirmar
 - Alberto pidió curvas reales de distintas opciones sacadas de newsletters anteriores. El archivo público de Mailchimp solo muestra las 20 últimas (todas ya usadas en Glucovibes-Posts) y no hay acceso a la cuenta de Mailchimp: hace falta el número o el título de las newsletters con curvas de tupper/pan integral.
 - Alternativa: curvas de `Glucovibes-Posts/15_plato-segun-actividad` (127 vs 115 mg/dl), pendientes de que Alberto confirme qué curva es de cada plato y aún sin publicar en Instagram.
+
+## Imagen pedida por Alberto (06/11/2026)
+Ilustración del intestino: a un lado, hidrato solo, la glucosa pasa rápido a la sangre; al otro, con fibra y almidón resistente formando una barrera o malla que frena y escalona el paso. Sin texto en la foto; titular y rótulos en la composición. Pendiente de generar en ChatGPT (Chrome) cuando haya un navegador seleccionado.

@@ -1,5 +1,5 @@
 # Borrador · El mito de que solo importa lo que comes
-Estado: BORRADOR · IMAGEN PENDIENTE · Buffer (borrador) 6aecd403d8b894d9433db301 · creado el 05/11/2026 a petición de Alberto (segunda entrada de la reescritura del pan de atún). Pendiente de OK y de curvas reales.
+Estado: BORRADOR · IMAGEN PENDIENTE · Buffer (borrador) 6aecd403d8b894d9433db301 · creado el 05/11/2026 a petición de Alberto (segunda entrada de la reescritura del pan de atún). Pendiente de OK y de curvas reales. Texto publicado: texto_final.txt (manda sobre la sección «Texto»). Alberto retocó el borrador en Buffer el 06/11/2026 (texto_final_v1.txt) y pidió por email ese mismo día añadir la gestión de la energía (más despierto y sin sopor con curvas estables frente a pico y bajón) y una infografía del orden de los platos; versión con esos cambios en texto_final.txt y en el borrador de Buffer (06/11/2026). Pendiente de OK de Alberto.
 Fecha propuesta: miércoles 18/11/2026 17:48 (o el siguiente hueco libre de LinkedIn en Buffer; máximo 4 programados) · Pilar: metabolismo en la jornada · Serie de la semana: la comida en un día de trabajo (2/2; cita el tupper del lunes) · CTA: NO (el CTA de la semana del 16/11 iría el viernes 20/11) · Plantilla prevista: P1 (misma persona en un restaurante: empieza por el pan vs empieza por la ensalada) + curvas reales si las hay
 
 ## Texto
@@ -26,11 +26,13 @@ Cuando comas fuera, empieza por algo verde: ensalada, verduras a la plancha, una
 «El mito de que solo importa lo que comes». Alternativa tipo reto: «¿Quién estará pensando en picar a las 17:00?» («17:00» en coral).
 
 ## Imagen
-Pendiente. Misma persona (>35 años) en un menú del día: a la izquierda, empieza por la cesta de pan; a la derecha, empieza por una ensalada, con el segundo al fondo.
+Pendiente. Petición de Alberto (06/11/2026): imagen a modo de infografía sobre la importancia del orden en las comidas (1 verde → 2 proteína → 3 hidratos), conectada con la energía de la tarde (curva estable frente a pico y bajón). Se genera en una ejecución con Chrome disponible (el 06/11 había dos navegadores conectados y ninguno seleccionado). Idea anterior, descartada salvo que Alberto la prefiera: misma persona empezando por el pan frente a empezando por la ensalada.
 
 ## Fuentes y límites
 - Shukla AP, Iliescu RG, Thomas CE, Aronne LJ. Food order has a significant impact on postprandial glucose and insulin levels. Diabetes Care 2015;38(7):e98-e99. n = 11, diabetes tipo 2 con metformina; glucosa −29 %, −37 % y −17 % a los 30, 60 y 120 min con verdura y proteína antes del pan y el zumo; insulina más baja. Límite: muestra pequeña, sin personas sanas.
 - Mecanismo: fibra viscosa y vaciado gástrico; proteína y grasa estimulan GLP-1.
 
 ## A confirmar
+- Energía y sopor: el texto asocia curva estable con estar más despierto y pico-bajón con sopor (petición de Alberto). No lleva un estudio citado; se le ha señalado por email por si quiere apoyarlo con datos de la comunidad Glucovibes o con un estudio.
+- Siguiente entrada propuesta por Alberto: hipoglucemia reactiva (qué es, cómo se da y sus efectos). El post ya la anuncia («te lo cuento en una próxima entrada»).
 - Curvas reales de una persona usuaria de Glucovibes comiendo en distinto orden (verde primero vs hidrato primero): pedidas a Alberto (newsletters anteriores).
