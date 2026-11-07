@@ -55,6 +55,8 @@ Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca
 - **Instagram aparcado (decisión de Alberto, 04/11/2026):** los posts de Instagram programados con mucha antelación (p. ej. los de Navidad) se pasan a borrador en Buffer conservando su fecha y se anotan en `instagram_aparcados.json`. Se vuelven a programar a su fecha original cuando falten 14 días o menos, con prioridad sobre la cola de LinkedIn. Si aparece algún post de Instagram programado a más de 21 días vista y el total de programados es de 9 o más, se aparca igual y se anota.
 - Imágenes: `raw.githubusercontent.com/acondemellado/LinkedIN-Glucovibes/main/borradores/AAAA-MM-DD_tema/infografia.png`.
 
+- **altText de las imágenes: máximo 250 caracteres** (Buffer limita LinkedIn a 300 y rechaza el post si se pasa).
+
 ## 8. Ciclo semanal
 - **Viernes 05:00 (tarea automática «LinkedIn · borradores semanales»):** repone la cola: genera los borradores que falten hasta tener 2 en Buffer (pendientes de OK o aprobados sin programar; 2 posts por semana desde el 06/11/2026), los sube al repo y los crea como borradores en Buffer. Si ya hay 2 o más, no genera nada. Cada borrador lleva una fecha propuesta: los siguientes huecos de calendario que queden libres después de los programados y de los borradores anteriores.
 - **UN EMAIL POR POST**, desde alberto@glucovibes.com a acondemellado@gmail.com, para que Alberto responda a cada uno por separado.

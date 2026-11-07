@@ -35,6 +35,6 @@ h1 span{color:#F2594B}
 <div class="sub">El mismo desayuno. La misma ración de hidratos por kilo de peso.<br>Dos personas, dos curvas de glucosa muy distintas.</div>
 ${card(268,chart(D.pico_alto,'+61 mg/dl',-10,'Paseo antes'),'foto_luis_enrique.png','Luis Enrique','PASEO → DESAYUNO')}
 ${card(758,chart(D.pico_bajo,'+12 mg/dl',33,'Paseo después'),'foto_alberto.png','Alberto Conde','DESAYUNO → PASEO')}
-<div class="nota">Curvas reales. Desayuno: pudding de avena con chía, proteína whey y arándanos + café.<br>Variación de glucosa (mg/dl) desde el inicio del desayuno.</div>
+<div class="nota">Curvas reales. Desayuno: pudding de avena con chía y lino, aislado de proteína y arándanos + café sin leche.<br>Variación de glucosa (mg/dl) desde el inicio del desayuno.</div>
 </body></html>`;
 (async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:1080,height:1350}});await p.setContent(html,{waitUntil:'load'});await p.screenshot({path:'infografia.png'});await b.close();console.log('ok')})();
