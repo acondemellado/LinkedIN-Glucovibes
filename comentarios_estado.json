@@ -1,5 +1,8 @@
 {
-  "ultima_revision": "2026-11-07",
+  "ultima_revision": "2026-11-08",
   "posts_revisados": ["borradores/2026-11-02_tostada", "borradores/2026-11-04_donut", "borradores/2026-11-04_zumo"],
-  "pendientes": []
+  "pendientes": [
+    {"post": "borradores/2026-11-04_zumo", "autor": "Dr. Carlos Valenti", "texto": "la alimentación y el estilo de vida son muy interesantes. Claro que si...", "primer_aviso": "2026-11-08"},
+    {"post": "borradores/2026-11-04_zumo", "autor": "Ana S.", "texto": "Umm...le has dado algo de lógica, sí. Gracias!", "primer_aviso": "2026-11-08"}
+  ]
 }
