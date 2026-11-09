@@ -1,5 +1,5 @@
 # Borrador · El mito de que solo importa lo que comes
-Estado: APROBADO (07/11/2026) · en cola · Buffer (borrador) 6aecd403d8b894d9433db301 · Alberto dio OK a texto e imagen el 07/11/2026, con el titular de la imagen cambiado a «¿Cómo impacta el orden de lo que comes?» (infografia_v2.png). Texto publicado: texto_final.txt (manda sobre la sección «Texto»): versión de Alberto del 06/11/2026 con erratas corregidas (anteriores: texto_final_v1.txt, texto_final_v2.txt).
+Estado: APROBADO (07/11/2026) · en cola (09/11/2026: sin hueco, 4 de LinkedIn programados; siguiente hueco posible: semana del 23/11, martes 24 08:45 o viernes 27 14:20) · Buffer (borrador) 6aecd403d8b894d9433db301 · Alberto dio OK a texto e imagen el 07/11/2026, con el titular de la imagen cambiado a «¿Cómo impacta el orden de lo que comes?» (infografia_v2.png). Texto publicado: texto_final.txt (manda sobre la sección «Texto»): versión de Alberto del 06/11/2026 con erratas corregidas (anteriores: texto_final_v1.txt, texto_final_v2.txt).
 Fecha propuesta: viernes 27/11/2026 14:20 (nuevo ritmo: semana del 23/11 martes y viernes; el martes 24 iría la cena tarde, con CTA) · Pilar: metabolismo en la jornada · Serie: la comida en un día de trabajo · CTA: NO · Plantilla: P3 (objetos: tres platos en orden) con números y rótulos
 
 ## Texto

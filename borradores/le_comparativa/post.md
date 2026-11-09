@@ -1,5 +1,5 @@
 # Borrador · ¿Eres de los que copia lo que le funciona a tu vecino? (Luis Enrique y Alberto)
-Estado: PROGRAMADO · Buffer 6aef5c2fd6bbae6fa19e1f13 · lunes 9/11/2026 08:45 · CTA: SÍ
+Estado: PUBLICADO · Buffer 6aef5c2fd6bbae6fa19e1f13 · lunes 9/11/2026 08:45 · CTA: SÍ · Publicado con el texto de texto.txt sin cambios (sincronizado desde Buffer el 09/11/2026).
 Fuente: newsletter «Salud y ciencia una vez por semana» EP3 (21/05/2023), «¡Comparémonos!». Recopilatorio en Drive: «Gramos de Salud y Ciencia recap01-51.pdf», págs. 125-128 y 140-141.
 Autorización: Alberto confirma que tiene la autorización de Luis Enrique para publicar sus datos, su nombre y su imagen (07/11/2026).
 

@@ -1,5 +1,5 @@
 # Borrador · ¿Saltarse el desayuno es una buena costumbre?
-Estado: PROGRAMADO · Buffer 6ae45d9eceb12661efd81a6e · viernes 20/11/2026 08:45 (movido desde el 9/11 por decisión de Alberto) · CTA: SÍ
+Estado: PROGRAMADO · Buffer 6ae45d9eceb12661efd81a6e · miércoles 25/11/2026 17:56 · programado por Alberto en Buffer (09/11/2026; antes viernes 20/11 08:45, y antes lunes 9/11, movido el 07/11 para dejar sitio a Luis Enrique) · CTA: SÍ · Texto publicado: texto_final.txt (manda sobre la sección «Texto»). Alberto retocó el texto en Buffer el 07/11/2026 (versión anterior: texto_final_v1.txt).
 Fecha propuesta: viernes 6/11/2026 14:20 · Pilar: metabolismo en la jornada · CTA: SÍ (post comercial de la semana) · Plantilla: P1 + curvas reales
 Fuente Glucovibes: Glucovibes-Posts/02_ayuno-desayuno (programado en Instagram el 5/11/2026)
 

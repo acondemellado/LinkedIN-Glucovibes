@@ -1,5 +1,5 @@
 # Borrador · El mito del tupper de pasta para tener energía
-Estado: PROGRAMADO · Buffer 6aeb37f8bd95a2bd48fc50e3 · jueves 19/11/2026 17:48 · APROBADO por Alberto el 07/11/2026 (textos e imágenes OK, con el titular de la imagen cambiado a «Transmisión de energía a tu cuerpo»: infografia_v2.png). Texto publicado: texto_final.txt (manda sobre la sección «Texto»): versión de Alberto del 06/11/2026, sin línea de titular, con erratas corregidas.
+Estado: PROGRAMADO · Buffer 6aeb37f8bd95a2bd48fc50e3 · jueves 19/11/2026 17:48 · Pasó a borrador en Buffer el 07/11/2026 (18:28) para dejar hueco a Luis Enrique (máx. 4 de LinkedIn) y la cola lo volvió a programar el 09/11/2026 en el mismo hueco. APROBADO por Alberto el 07/11/2026 (textos e imágenes OK, con el titular de la imagen cambiado a «Transmisión de energía a tu cuerpo»: infografia_v2.png). Texto publicado: texto_final.txt (manda sobre la sección «Texto»): versión de Alberto del 06/11/2026, sin línea de titular, con erratas corregidas.
 Fecha propuesta: jueves 19/11/2026 17:48 (nuevo ritmo de Alberto del 06/11/2026: semana del 16/11 lunes y jueves; el lunes 16 lo ocupa la inflamación) · Pilar: metabolismo en la jornada · Serie: la comida en un día de trabajo · CTA: NO (post 4 tras el CTA del ayuno del 9/11) · Plantilla: ilustración de mecanismo + gráficas de la app
 
 ## Texto
