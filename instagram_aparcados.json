@@ -1,10 +1,58 @@
 {
-  "nota": "Posts de Instagram pasados de «programado» a «borrador» en Buffer el 04/11/2026, a petición de Alberto, para liberar huecos (límite de 10 programados compartido con LinkedIn). Conservan su fecha en Buffer. La tarea «LinkedIn · sincronizar Buffer y revisar OK» los vuelve a programar a su fecha original cuando falten 14 días o menos (prioridad sobre la cola de LinkedIn) y los quita de esta lista.",
+  "nota": "Posts de Instagram pasados de «programado» a «borrador» en Buffer el 04/11/2026, a petición de Alberto, para liberar huecos (límite de 10 programados compartido con LinkedIn). Conservan su fecha en Buffer. La tarea «LinkedIn · sincronizar Buffer y revisar OK» los vuelve a programar a su fecha original cuando falten 14 días o menos (prioridad sobre la cola de LinkedIn) y los quita de esta lista. El 10/11/2026 se aparcaron también 23-26 (programados el 09/11 a más de 21 días vista con 10 programados en total).",
   "canal": "6ad8809e778b240e2f78499d",
   "posts": [
-    {"id": "6aeaf416961fae078abd6ec8", "tema": "19_turron-navidad", "dueAt": "2026-12-19T19:30:00+01:00", "reprogramar_desde": "2026-12-05"},
-    {"id": "6aeaf41b20b88292aa721161", "tema": "20_dulce-tras-moverte", "dueAt": "2026-12-24T19:30:00+01:00", "reprogramar_desde": "2026-12-10"},
-    {"id": "6aeaf420ce16a24329e22c0e", "tema": "21_pilares-estilo-vida", "dueAt": "2026-12-26T19:30:00+01:00", "reprogramar_desde": "2026-12-12"},
-    {"id": "6aeaf423ce16a24329e23068", "tema": "22_evolucion-analiticas", "dueAt": "2026-12-31T19:30:00+01:00", "reprogramar_desde": "2026-12-17"}
+    {
+      "id": "6af175d9e29b1359f0d7ea70",
+      "tema": "23_magdalena-industrial-vs-casera",
+      "dueAt": "2026-12-08T19:30:00+01:00",
+      "reprogramar_desde": "2026-11-24",
+      "aparcado": "2026-11-10"
+    },
+    {
+      "id": "6af176192f1ff83d45220686",
+      "tema": "24_energia-combustible",
+      "dueAt": "2026-12-10T19:30:00+01:00",
+      "reprogramar_desde": "2026-11-26",
+      "aparcado": "2026-11-10"
+    },
+    {
+      "id": "6af1761b7522f65ac0c802a6",
+      "tema": "25_bowl-yogur-toppings",
+      "dueAt": "2026-12-12T19:30:00+01:00",
+      "reprogramar_desde": "2026-11-28",
+      "aparcado": "2026-11-10"
+    },
+    {
+      "id": "6af1761ccac9d7525f76509f",
+      "tema": "26_manzana-con-nueces",
+      "dueAt": "2026-12-15T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-01",
+      "aparcado": "2026-11-10"
+    },
+    {
+      "id": "6aeaf416961fae078abd6ec8",
+      "tema": "19_turron-navidad",
+      "dueAt": "2026-12-19T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-05"
+    },
+    {
+      "id": "6aeaf41b20b88292aa721161",
+      "tema": "20_dulce-tras-moverte",
+      "dueAt": "2026-12-24T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-10"
+    },
+    {
+      "id": "6aeaf420ce16a24329e22c0e",
+      "tema": "21_pilares-estilo-vida",
+      "dueAt": "2026-12-26T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-12"
+    },
+    {
+      "id": "6aeaf423ce16a24329e23068",
+      "tema": "22_evolucion-analiticas",
+      "dueAt": "2026-12-31T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-17"
+    }
   ]
 }
