@@ -171,6 +171,14 @@ Ediciones en Buffer del 09/11/2026 (mermelada 11/11 e inflamación 16/11):
 - **«Luego me cuentas»** lo vuelve a quitar en la mermelada (confirmado el 09/11/2026).
 - Erratas corregidas en Buffer el 09/11/2026: «mermerlada» → «mermelada», «tambié» → «también», «reduciemos» → «reducimos», «se descanso peor» → «se descanse peor», dobles espacios y espacios finales.
 
+Ediciones en Buffer del 10/11/2026 (inflamación 16/11):
+- **Arranque con algo personal que el lector no sabe de Alberto (confirma «Experiencia personal de Alberto, cuando él la aporta», 10/11/2026):** «Si no duele, ¿estás bien? Estas semanas hemos hablado de picos de glucosa en el desayuno…» → «Muchos de los que me leéis por aquí no sabéis que tengo una enfermedad crónica…». Es su decisión y su historia: nunca la inventes ni la propongas tú; si un tema se presta, pregunta en el email si quiere contar algo suyo.
+- **Una frase-reflexión que lleva al concepto:** añade «el dolor es inevitable, pero el sufrimiento es opcional. Y muchas veces, sufrimos por cosas que no duelen… ¿te suena?» antes de presentar la inflamación que no duele. Un puente con una idea de vida funciona mejor que el enlace con la serie.
+- **Sin línea de titular en el texto (confirma lo visto en el tupper, 10/11/2026):** quitó «Si no duele, ¿estás bien?» del arranque. El titular va en la imagen; el post empieza directamente con la frase de entrada.
+- **Referencias al hilo, solo si siguen siendo ciertas (confirmado el 10/11/2026):** quitó «Estas semanas hemos hablado de picos de glucosa en el desayuno» al quedar el post en otra semana.
+- **Matiz preciso en lugar de frase corta tajante (confirma «Menos tajante en el mecanismo»):** «Un pico aislado no es un problema. La pregunta es qué pasa cuando se repite…» → «un pico de glucosa aislado un día no tiene un efecto significativo en ella, pero cuando se da todos los días y en varias comidas al día, sí que puede tenerlo».
+- Erratas corregidas en Buffer el 10/11/2026: «obvismente» → «obviamente», «bien ¿te suena?» → «bien, ¿te suena?», espacio final.
+
 ## 8c. Comentarios en los posts (seguimiento diario; decisión de Alberto, 07/11/2026)
 - Alberto quiere responder él mismo a los comentarios. Cada día, la tarea «LinkedIn · comentarios por responder» revisa **solo los posts publicados por este flujo** (los de `borradores/` que salieron por Buffer, via «buffer») de los últimos 21 días y le envía UN email (desde alberto@glucovibes.com a acondemellado@gmail.com) con los comentarios que no ha contestado. Si no hay ninguno pendiente, no envía nada.
 - **Fuera de la supervisión (Alberto, 07/11/2026):** los posts que Alberto publica directamente en LinkedIn (en Buffer aparecen con via «network», p. ej. el del día del donut o el de MEDICA) y los comentarios que él hace en posts de otros.
