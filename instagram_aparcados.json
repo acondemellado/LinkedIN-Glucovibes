@@ -1,13 +1,7 @@
 {
-  "nota": "Posts de Instagram pasados de «programado» a «borrador» en Buffer el 04/11/2026, a petición de Alberto, para liberar huecos (límite de 10 programados compartido con LinkedIn). Conservan su fecha en Buffer. La tarea «LinkedIn · sincronizar Buffer y revisar OK» los vuelve a programar a su fecha original cuando falten 14 días o menos (prioridad sobre la cola de LinkedIn) y los quita de esta lista. El 10/11/2026 se aparcaron también 23-26 (programados el 09/11 a más de 21 días vista con 10 programados en total). El 10/11/2026 a las 19:18 (hora de Madrid) los posts 23-26 aparecían de nuevo programados en Buffer a su fecha (los volvió a programar Alberto o una tarea de Instagram: updatedAt 18:18 UTC); se respeta lo que hay en Buffer, se quitan de la lista y no se vuelven a aparcar.",
+  "nota": "Posts de Instagram pasados de «programado» a «borrador» en Buffer el 04/11/2026, a petición de Alberto, para liberar huecos (límite de 10 programados compartido con LinkedIn). Conservan su fecha en Buffer. La tarea «LinkedIn · sincronizar Buffer y revisar OK» los vuelve a programar a su fecha original cuando falten 14 días o menos (prioridad sobre la cola de LinkedIn) y los quita de esta lista. El 10/11/2026 se aparcaron también 23-26 (programados el 09/11 a más de 21 días vista con 10 programados en total). El 10/11/2026 a las 19:18 (hora de Madrid) los posts 23-26 aparecían de nuevo programados en Buffer a su fecha (los volvió a programar Alberto o una tarea de Instagram: updatedAt 18:18 UTC); se respeta lo que hay en Buffer, se quitan de la lista y no se vuelven a aparcar. El 11/11/2026 a las 20:00 (hora de Madrid) el 19_turron-navidad aparecía de nuevo programado en Buffer a su fecha (19/12 19:30; updatedAt 17:08 UTC, no lo programó esta tarea); se respeta, se quita de la lista y no se vuelve a aparcar. Tampoco se aparca el 27_fibra-25-gramos (17/12), programado en Buffer el 11/11.",
   "canal": "6ad8809e778b240e2f78499d",
   "posts": [
-    {
-      "id": "6aeaf416961fae078abd6ec8",
-      "tema": "19_turron-navidad",
-      "dueAt": "2026-12-19T19:30:00+01:00",
-      "reprogramar_desde": "2026-12-05"
-    },
     {
       "id": "6aeaf41b20b88292aa721161",
       "tema": "20_dulce-tras-moverte",
