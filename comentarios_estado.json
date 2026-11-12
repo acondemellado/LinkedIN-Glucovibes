@@ -1,9 +1,10 @@
 {
-  "ultima_revision": "2026-11-11",
+  "ultima_revision": "2026-11-12",
   "posts_revisados": [
     "borradores/2026-11-02_tostada",
     "borradores/2026-11-04_donut",
     "borradores/2026-11-04_zumo",
+    "borradores/2026-11-11_mermelada",
     "borradores/le_comparativa"
   ],
   "pendientes": [
@@ -18,12 +19,6 @@
       "autor": "Ana S.",
       "texto": "Umm...le has dado algo de lógica, sí. Gracias!",
       "primer_aviso": "2026-11-08"
-    },
-    {
-      "post": "borradores/2026-11-04_zumo",
-      "autor": "Juan Ricardo C.",
-      "texto": "Lo siento perdona, me refería a que cuando yo era pequeño, decían que el pescado azul...",
-      "primer_aviso": "2026-11-09"
     }
   ]
 }
