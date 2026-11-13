@@ -1,5 +1,5 @@
 {
-  "ultima_revision": "2026-11-12",
+  "ultima_revision": "2026-11-13",
   "posts_revisados": [
     "borradores/2026-11-02_tostada",
     "borradores/2026-11-04_donut",
@@ -19,6 +19,12 @@
       "autor": "Ana S.",
       "texto": "Umm...le has dado algo de lógica, sí. Gracias!",
       "primer_aviso": "2026-11-08"
+    },
+    {
+      "post": "borradores/2026-11-04_zumo",
+      "autor": "Juan Ricardo C. (LinkedIn Member)",
+      "texto": "Lo siento perdona, me refería a que cuando yo era pequeño, decían que el pescado azul...",
+      "primer_aviso": "2026-11-13"
     }
   ]
 }
