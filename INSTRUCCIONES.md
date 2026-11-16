@@ -63,6 +63,7 @@ Reglas: sin rótulos de juicio («antes/después», «con SYNC2»…), sin marca
   - Asunto: «[LinkedIn] Borrador · <Día> DD/MM HH:MM · <titular de la imagen> – OK o cambios».
   - Cabecera del cuerpo: «Ref: <carpeta del post> · Buffer (borrador) <id>».
   - Después: el enlace a la infografía, el texto completo, las fuentes y límites, y «Responde OK para programarlo o escribe los cambios».
+  - **Respuestas en los hilos: texto simple y sin citar el hilo (Alberto, 16/11/2026: «el email ha llegado desconfigurado, así no se puede supervisar ni validar»).** La respuesta del 16/11 a las 10:03 (hecha con la herramienta `reply`, que arrastra todo el hilo citado en HTML) le llegó como código MIME en bruto. Responde con `send_message` + `replyThreadId` del hilo, asunto «Re: <asunto original>», solo `body` en texto plano (sin `htmlBody`) y sin pegar los mensajes anteriores. Si hace falta repetir el texto de un post, va entero en el cuerpo, en texto plano.
 - **Respuesta de Alberto** (desde acondemellado@gmail.com, en el hilo de ese post):
   - «OK» → programar ESE post.
   - Cambios → aplicarlos, responder en el mismo hilo con la versión nueva y esperar OK.
