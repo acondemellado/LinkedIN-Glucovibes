@@ -1,7 +1,49 @@
 {
-  "nota": "Posts de Instagram pasados de «programado» a «borrador» en Buffer el 04/11/2026, a petición de Alberto, para liberar huecos (límite de 10 programados compartido con LinkedIn). Conservan su fecha en Buffer. La tarea «LinkedIn · sincronizar Buffer y revisar OK» los vuelve a programar a su fecha original cuando falten 14 días o menos (prioridad sobre la cola de LinkedIn) y los quita de esta lista. El 10/11/2026 se aparcaron también 23-26 (programados el 09/11 a más de 21 días vista con 10 programados en total). El 10/11/2026 a las 19:18 (hora de Madrid) los posts 23-26 aparecían de nuevo programados en Buffer a su fecha (los volvió a programar Alberto o una tarea de Instagram: updatedAt 18:18 UTC); se respeta lo que hay en Buffer, se quitan de la lista y no se vuelven a aparcar. El 11/11/2026 a las 20:00 (hora de Madrid) el 19_turron-navidad aparecía de nuevo programado en Buffer a su fecha (19/12 19:30; updatedAt 17:08 UTC, no lo programó esta tarea); se respeta, se quita de la lista y no se vuelve a aparcar. Tampoco se aparca el 27_fibra-25-gramos (17/12), programado en Buffer el 11/11. El 19/11/2026 el post de Instagram del 22/12 (6af1761e7522f65ac0c80331, «el mismo desayuno, después de una mala noche») aparece programado en Buffer sin haber pasado por esta tarea; como los demás reprogramados por Alberto o la tarea de Instagram, se respeta y no se aparca.",
+  "nota": "Posts de Instagram pasados de «programado» a «borrador» en Buffer el 04/11/2026, a petición de Alberto, para liberar huecos (límite de 10 programados compartido con LinkedIn). Conservan su fecha en Buffer. La tarea «LinkedIn · sincronizar Buffer y revisar OK» los vuelve a programar a su fecha original cuando falten 14 días o menos (prioridad sobre la cola de LinkedIn) y los quita de esta lista. El 10/11/2026 se aparcaron también 23-26 (programados el 09/11 a más de 21 días vista con 10 programados en total). El 10/11/2026 a las 19:18 (hora de Madrid) los posts 23-26 aparecían de nuevo programados en Buffer a su fecha (los volvió a programar Alberto o una tarea de Instagram: updatedAt 18:18 UTC); se respeta lo que hay en Buffer, se quitan de la lista y no se vuelven a aparcar. El 11/11/2026 a las 20:00 (hora de Madrid) el 19_turron-navidad aparecía de nuevo programado en Buffer a su fecha (19/12 19:30; updatedAt 17:08 UTC, no lo programó esta tarea); se respeta, se quita de la lista y no se vuelve a aparcar. Tampoco se aparca el 27_fibra-25-gramos (17/12), programado en Buffer el 11/11. El 19/11/2026 el post de Instagram del 22/12 (6af1761e7522f65ac0c80331, «el mismo desayuno, después de una mala noche») aparece programado en Buffer sin haber pasado por esta tarea; como los demás reprogramados por Alberto o la tarea de Instagram, se respeta y no se aparca. El 20/11/2026, a petición de Alberto («pasa a borrador los de diciembre, ya lo acordamos en su día»), se aparcan todos los de diciembre programados (08/12 a 22/12) conservando su fecha; se reprograman cuando falten 14 días. Se añaden también 36_feliz-2027 (31/12, ya estaba en borrador con fecha) y se corrige la fecha de 22_evolucion-analiticas al 02/01/2027 (la que tiene en Buffer). Queda sin efecto la excepción de «no volver a aparcar» los que Alberto o la tarea de Instagram reprogramaron.",
   "canal": "6ad8809e778b240e2f78499d",
   "posts": [
+    {
+      "id": "6af175d9e29b1359f0d7ea70",
+      "tema": "23_magdalena-industrial-vs-casera",
+      "dueAt": "2026-12-08T19:30:00+01:00",
+      "reprogramar_desde": "2026-11-24"
+    },
+    {
+      "id": "6af176192f1ff83d45220686",
+      "tema": "24_energia-combustible",
+      "dueAt": "2026-12-10T19:30:00+01:00",
+      "reprogramar_desde": "2026-11-26"
+    },
+    {
+      "id": "6af1761b7522f65ac0c802a6",
+      "tema": "25_bowl-yogur-toppings",
+      "dueAt": "2026-12-12T19:30:00+01:00",
+      "reprogramar_desde": "2026-11-28"
+    },
+    {
+      "id": "6af1761ccac9d7525f76509f",
+      "tema": "26_manzana-con-nueces",
+      "dueAt": "2026-12-15T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-01"
+    },
+    {
+      "id": "6af1761d796ccae2668f6078",
+      "tema": "27_fibra-25-gramos",
+      "dueAt": "2026-12-17T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-03"
+    },
+    {
+      "id": "6aeaf416961fae078abd6ec8",
+      "tema": "19_turron-navidad",
+      "dueAt": "2026-12-19T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-05"
+    },
+    {
+      "id": "6af1761e7522f65ac0c80331",
+      "tema": "28_dormir-mal-vs-bien",
+      "dueAt": "2026-12-22T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-08"
+    },
     {
       "id": "6aeaf41b20b88292aa721161",
       "tema": "20_dulce-tras-moverte",
@@ -15,10 +57,16 @@
       "reprogramar_desde": "2026-12-12"
     },
     {
-      "id": "6aeaf423ce16a24329e23068",
-      "tema": "22_evolucion-analiticas",
+      "id": "6afc75b8f78506c8dd31365d",
+      "tema": "36_feliz-2027",
       "dueAt": "2026-12-31T19:30:00+01:00",
       "reprogramar_desde": "2026-12-17"
+    },
+    {
+      "id": "6aeaf423ce16a24329e23068",
+      "tema": "22_evolucion-analiticas",
+      "dueAt": "2027-01-02T19:30:00+01:00",
+      "reprogramar_desde": "2026-12-19"
     }
   ]
 }
