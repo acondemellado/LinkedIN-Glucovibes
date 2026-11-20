@@ -1,5 +1,5 @@
 # Borrador · Hipoglucemia reactiva: el bajón después del pico
-Estado: BORRADOR · Buffer (borrador) PENDIENTE · creado el 20/11/2026 por la tarea «LinkedIn · borradores semanales». Pendiente de OK.
+Estado: BORRADOR · Buffer (borrador) 6affc6f30f5eda1a57bdf441 · creado el 20/11/2026 por la tarea «LinkedIn · borradores semanales». Pendiente de OK.
 Fecha propuesta: jueves 03/12/2026 17:48 (semana del 30/11, de lunes y jueves; el lunes 30/11 08:45 queda para la cena tarde, borrador anterior; orientativa: con el OK entra en la cola y se programa en el primer hueco libre) · Pilar: aprende tu metabolismo · Serie de la semana: la cena tarde (lunes) y el bajón después del pico (jueves); cumple lo anunciado en la mermelada (11/11: «os hablaré de ello en otra entrada») y en comer fuera (24/11: «te lo contaré más adelante») · CTA: NO (la cena tarde y el desayuno del 25/11 ya llevan CTA) · Plantilla: P2 (misma persona, mismo día y distinto final) + curva real de un solo panel
 Fuente Glucovibes: Glucovibes-Posts/01_pico-y-bajon («¿Hambre después de comer? Pico y bajón», hipoglucemia reactiva; publicado en Instagram el 21/10/2026, Buffer 6ad8851272c27851146a302d).
 
