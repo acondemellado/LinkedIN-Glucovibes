@@ -1,27 +1,26 @@
 # Borrador · ¿Entrenar en ayunas para quemar más grasa?
-Estado: BORRADOR · Buffer (borrador) 6b09016c658222306cdda6e5 · creado el 27/11/2026 por la tarea «LinkedIn · borradores semanales». Pendiente de OK.
+Estado: BORRADOR · Buffer (borrador) 6b09016c658222306cdda6e5 · creado el 27/11/2026 por la tarea «LinkedIn · borradores semanales». Alberto pidió cambios por email el 27/11/2026 («corrige y utiliza este texto»): texto reescrito por él, aplicado el 28/11/2026 con erratas corregidas (texto_v2.txt; anterior: texto.txt) y actualizado en el borrador de Buffer. Quita la viñeta de diabetes/medicación y el mínimo de «unos 55»; añade qué comió y cuándo (a los 90 min, 2 × medio plátano y un dátil). Imagen sin cambios (infografia.png). Pendiente de OK a la v2.
 Fecha propuesta: martes 08/12/2026 08:45 (semana del 7/12, de martes y viernes; el lunes 30/11 lo ocupa la hipoglucemia reactiva, programada, y el jueves 03/12 17:48 queda para la cena tarde, borrador anterior; orientativa: con el OK entra en la cola y se programa en el primer hueco libre) · Pilar: aprende tu metabolismo / rendimiento · Serie de la semana: moverse y glucosa (abre la semana; enlaza hacia atrás con la hipoglucemia reactiva del 30/11: «Hace unos días os hablaba de la hipoglucemia reactiva»; candidato para el viernes 11/12: el buffet de hotel con fuerza antes y paseo después, publicado en Instagram el 24/11) · CTA: NO (la cena tarde, borrador anterior, lleva CTA; regla de 1 de cada 4) · Plantilla: P2 (misma persona, misma sesión y distinto final) + curva real de un solo panel
 Fuente Glucovibes: reel de Instagram «¿Entrenar en ayunas para quemar más grasa? Mira esta curva» (Buffer 6b05829ff6a22c1e50ec8eda, programado por Alberto para el domingo 06/12/2026 19:30; Glucovibes-Posts/reels/R-261206-1) y la curva de Glucovibes-Posts/32_pedalear-en-ayunas/curva.png (la misma que enseña el reel). Origen de los datos: newsletter de Mailchimp del 15/11/2026 (id 1b54cf9e8e).
 
 ## Texto
 
-Entrenar en ayunas para quemar más grasa. Seguro que lo has oído, o que lo haces: te levantas, un café y a la bici, sin desayunar. Pero ¿qué está pasando mientras tanto con tu glucosa?
+Entrenar en ayunas para quemar más grasa. Seguro que lo has oído, o que lo haces: te levantas, un café solo quizá y a la bici o a correr un buen rato, sin desayunar. Pero ¿qué está pasando mientras tanto con tu glucosa?
 
 Hace unos días os hablaba de la hipoglucemia reactiva, el bajón que llega después de un pico. Hoy, otra caída muy distinta, que muchos deportistas tienen sin saberlo.
 
-Aquí tienes un ejemplo real. Dos horas y media de ciclismo indoor, a baja intensidad y en ayunas:
-→ A los 30 minutos, la glucosa ya estaba por debajo de 70 mg/dl, y llegó a unos 55.
-→ En cuanto empezó a comer, subió y se quedó estable, en torno a 80, el resto de la sesión.
+Aquí tienes un ejemplo real. Dos horas y media de ciclismo indoor, a baja intensidad y en ayunas, de una persona que buscaba perder peso:
+→ A los 30 minutos, la glucosa ya estaba por debajo de 70 mg/dl, niveles de hipoglucemia.
+→ Comenzó a comer a los 90 minutos de la sesión, con 2 ingestas de medio plátano y un dátil. Su glucosa desde ese momento subió y se quedó estable, en torno a 80, el resto de la sesión.
 
-¿Por qué ocurre? Al pedalear, el músculo coge glucosa de la sangre mucho más que en reposo, aunque vayas suave. El hígado es el que tiene que reponerla al mismo ritmo, tirando de sus reservas de glucógeno. Pero después de toda la noche sin comer esas reservas están más bajas, y si no llega a compensar, la glucosa cae. Y el cerebro, que vive de glucosa, es de los primeros en notarlo: menos potencia, peor concentración, menos lucidez. La famosa pájara que conoce cualquier ciclista.
+¿Por qué ocurre? Al pedalear, el músculo coge glucosa de la sangre mucho más que en reposo, aunque vayas suave. Quemas grasa, pero también glucosa. El hígado es el que tiene que reponerla al mismo ritmo, tirando de sus reservas de glucógeno, pero como vas suave y la intensidad es baja, la velocidad de reposición también lo es. No hay una señal de alerta, por decirlo de algún modo. El cerebro, que vive de glucosa, es de los primeros en notarlo: menos potencia, peor concentración, menos lucidez. La famosa pájara que conoce cualquier ciclista.
 
-Es verdad que en ayunas se quema algo más de grasa (British Journal of Nutrition, 2016). Pero comer antes mejora el rendimiento en los esfuerzos largos (Scandinavian Journal of Medicine & Science in Sports, 2018).
+Es verdad que en ayunas se quema algo más de grasa (British Journal of Nutrition, 2016), pero si acompañas las actividades de larga duración y baja intensidad con un pequeño aporte cada 40-45 minutos, seguirás quemando grasa, pero con una sensación mejor y generando menos déficit para recuperar después (Scandinavian Journal of Medicine & Science in Sports, 2018).
 
 A tener en cuenta:
-• No a todo el mundo le pasa igual. Depende de la intensidad, la duración, la cena de la noche anterior, cómo has dormido... y, sobre todo, ¡de quién!
-• Si tienes diabetes o tomas medicación que baja la glucosa, coméntalo antes con tu médico.
+• No a todo el mundo le pasa igual. Depende de la intensidad, la duración, la cena de la noche anterior, cómo has dormido... y, sobre todo, ¡de quién! Pero por norma general, la glucosa tiende a disminuir en los inicios de actividades de baja intensidad.
 
-Si te gusta entrenar en ayunas, no hace falta que lo dejes. En sesiones cortas puede irte bien. En las largas, lleva algo y empieza a comer pronto, poco y a menudo: un pequeño aporte cada 40-45 minutos evita esas caídas bruscas.
+Si te gusta entrenar en ayunas, puedes mantener esa rutina, es un estímulo extra para tu metabolismo. En sesiones cortas de menos de una hora y baja intensidad puede irte bien. En las más largas, lleva algo para mantener tus niveles estables: un pequeño aporte cada 40-45 minutos evita esas caídas bruscas.
 
 ¿Entrenas en ayunas? ¿Te has quedado alguna vez sin fuerzas a mitad de sesión sin saber por qué?
 
